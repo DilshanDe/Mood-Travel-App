@@ -1,0 +1,3498 @@
+{
+  "adventure": [
+    {
+      "name": "Sigiriya",
+      "cost": 50,
+      "duration": 1,
+      "activities": [
+        "hiking",
+        "photography",
+        "history"
+      ],
+      "image": "https://i.postimg.cc/Dw2FdT5L/sigiriya.jpg"
+    },
+    {
+      "name": "Adams Peak",
+      "cost": 30,
+      "duration": 1,
+      "activities": [
+        "pilgrimage",
+        "hiking",
+        "sunrise"
+      ],
+      "image": "https://i.postimg.cc/3JQ3NpvL/Adams-Peak.jpg"
+    },
+    {
+      "name": "Ella Rock",
+      "cost": 25,
+      "duration": 1,
+      "activities": [
+        "hiking",
+        "views",
+        "photography"
+      ],
+      "image": "https://i.postimg.cc/G3ycbzH8/Ella-Rock.webp"
+    },
+    {
+      "name": "Little Adams Peak",
+      "cost": 20,
+      "duration": 1,
+      "activities": [
+        "hiking",
+        "sunrise",
+        "views"
+      ],
+      "image": "https://i.postimg.cc/8cMDwkqB/Little-Adams-Peak.webp"
+    },
+    {
+      "name": "Pidurangala Rock",
+      "cost": 35,
+      "duration": 1,
+      "activities": [
+        "rock_climbing",
+        "views",
+        "photography"
+      ],
+      "image": "https://i.postimg.cc/kXNqb4N7/Pidurangala-sri-lanka-top.jpg"
+    },
+    {
+      "name": "Ambuluwawa Tower",
+      "cost": 15,
+      "duration": 1,
+      "activities": [
+        "climbing",
+        "views",
+        "spiral_tower"
+      ],
+      "image": "https://i.postimg.cc/NMWB12Pj/Ambuluwawa-Tower.webp"
+    },
+    {
+      "name": "Knuckles Mountain Range",
+      "cost": 40,
+      "duration": 2,
+      "activities": [
+        "trekking",
+        "camping",
+        "biodiversity"
+      ],
+      "image": "https://i.postimg.cc/V6SzrWgh/Knuckles-Mountain-Range.webp"
+    },
+    {
+      "name": "Riverston Peak",
+      "cost": 30,
+      "duration": 1,
+      "activities": [
+        "hiking",
+        "cliff_views",
+        "photography"
+      ],
+      "image": "https://i.postimg.cc/bvwy8htp/Riverston-Peak.webp"
+    },
+    {
+      "name": "Kithulgala",
+      "cost": 45,
+      "duration": 1,
+      "activities": [
+        "white_water_rafting",
+        "adventure_sports",
+        "nature"
+      ],
+      "image": "https://i.postimg.cc/cLmxVH6F/Kithulgala.webp"
+    },
+    {
+      "name": "Diyaluma Falls",
+      "cost": 25,
+      "duration": 1,
+      "activities": [
+        "hiking",
+        "waterfall",
+        "swimming"
+      ],
+      "image": "https://i.postimg.cc/htg4yx4J/Diyaluma-Falls.webp"
+    },
+    {
+      "name": "Bambarakanda Falls",
+      "cost": 30,
+      "duration": 1,
+      "activities": [
+        "hiking",
+        "waterfall",
+        "nature"
+      ],
+      "image": "https://i.postimg.cc/VNZYkVqM/Bambarakanda-Falls.jpg"
+    },
+    {
+      "name": "Manigala Mountain",
+      "cost": 35,
+      "duration": 1,
+      "activities": [
+        "hiking",
+        "rock_formations",
+        "views"
+      ],
+      "image": "https://i.postimg.cc/hPVP1MnW/Manigala-Mountain.jpg"
+    },
+    {
+      "name": "Hanthana Mountain Range",
+      "cost": 25,
+      "duration": 1,
+      "activities": [
+        "hiking",
+        "forest_trails",
+        "bird_watching"
+      ],
+      "image": "https://i.postimg.cc/QN9MHhnM/Hanthana-Mountain-Range.jpg"
+    },
+    {
+      "name": "Batlegoda",
+      "cost": 20,
+      "duration": 1,
+      "activities": [
+        "hiking",
+        "village_views",
+        "photography"
+      ],
+      "image": "https://i.postimg.cc/WtLC4MY0/Batlegoda.webp"
+    },
+    {
+      "name": "Kotagala",
+      "cost": 30,
+      "duration": 1,
+      "activities": [
+        "hiking",
+        "tea_estates",
+        "views"
+      ],
+      "image": "https://i.postimg.cc/fy01ZHCw/Kotagala.jpg"
+    },
+    {
+      "name": "Bible Rock",
+      "cost": 25,
+      "duration": 1,
+      "activities": [
+        "rock_climbing",
+        "views",
+        "adventure"
+      ],
+      "image": "https://i.postimg.cc/Kzjdpcg3/Bible-Rock.webp"
+    },
+    {
+      "name": "Kirigalpoththa",
+      "cost": 40,
+      "duration": 2,
+      "activities": [
+        "mountain_climbing",
+        "camping",
+        "challenge"
+      ],
+      "image": "https://i.postimg.cc/C1293yjP/Kirigalpoththa.webp"
+    },
+    {
+      "name": "Totupola Kanda",
+      "cost": 35,
+      "duration": 2,
+      "activities": [
+        "highest_peak",
+        "trekking",
+        "achievement"
+      ],
+      "image": "https://i.postimg.cc/c1pL32VB/Totupola-Kanda.jpg"
+    },
+    {
+      "name": "Agra Bopaththa",
+      "cost": 30,
+      "duration": 1,
+      "activities": [
+        "rock_climbing",
+        "adventure",
+        "views"
+      ],
+      "image": "https://images.unsplash.com/photo-1464822759844-d150baec4363?w=800&h=600&fit=crop&q=80"
+    },
+    {
+      "name": "Kikiliyamana",
+      "cost": 25,
+      "duration": 1,
+      "activities": [
+        "hiking",
+        "mountain_views",
+        "photography"
+      ],
+      "image": "https://i.postimg.cc/fbBGvSkh/Kikiliyamana.webp"
+    },
+    {
+      "name": "Dolphin Bay Kalpitiya",
+      "cost": 55,
+      "duration": 1,
+      "activities": [
+        "dolphin_watching",
+        "boat_rides",
+        "marine_adventure"
+      ],
+      "image": "https://i.postimg.cc/Nj7q5zcF/Dolphin-Bay-Kalpitiya.jpg"
+    },
+    {
+      "name": "Kelani River",
+      "cost": 40,
+      "duration": 1,
+      "activities": [
+        "white_water_rafting",
+        "kayaking",
+        "river_adventure"
+      ],
+      "image": "https://i.postimg.cc/8Cp8WmpH/Kelani-River.webp"
+    },
+    {
+      "name": "Belilena Cave",
+      "cost": 20,
+      "duration": 1,
+      "activities": [
+        "cave_exploration",
+        "archaeology",
+        "adventure"
+      ],
+      "image": "https://i.postimg.cc/qvdHBdWW/Belilena-Cave.jpg"
+    },
+    {
+      "name": "Batatota Cave",
+      "cost": 15,
+      "duration": 1,
+      "activities": [
+        "cave_exploration",
+        "spelunking",
+        "underground_adventure"
+      ],
+      "image": "https://i.postimg.cc/7Pdycz9H/Batatota-Cave.webp"
+    },
+    {
+      "name": "Kitulgala Forest",
+      "cost": 35,
+      "duration": 1,
+      "activities": [
+        "jungle_trekking",
+        "bird_watching",
+        "nature_walk"
+      ],
+      "image": "https://i.postimg.cc/ZKNhhqsr/Kitulgala-Forest.jpg"
+    },
+    {
+      "name": "Sinharaja Edge",
+      "cost": 45,
+      "duration": 2,
+      "activities": [
+        "canopy_walk",
+        "research",
+        "biodiversity_exploration"
+      ],
+      "image": "https://i.postimg.cc/0jM1j5k1/Sinharaja-Edge.webp"
+    },
+    {
+      "name": "Victoria Reservoir",
+      "cost": 30,
+      "duration": 1,
+      "activities": [
+        "boat_rides",
+        "fishing",
+        "water_sports"
+      ],
+      "image": "https://i.postimg.cc/fLghMShv/Victoria-Reservoir.webp"
+    },
+    {
+      "name": "Randenigala Reservoir",
+      "cost": 25,
+      "duration": 1,
+      "activities": [
+        "boating",
+        "fishing",
+        "water_adventure"
+      ],
+      "image": "https://i.postimg.cc/xCd2ryBC/Randenigala-Reservoir.webp"
+    },
+    {
+      "name": "Maduru Oya Rapids",
+      "cost": 35,
+      "duration": 1,
+      "activities": [
+        "river_rafting",
+        "kayaking",
+        "adventure_sports"
+      ],
+      "image": "https://i.postimg.cc/prwbFNrh/Maduru-Oya-Rapids.jpg"
+    },
+    {
+      "name": "Hunasgiriya",
+      "cost": 30,
+      "duration": 1,
+      "activities": [
+        "mountain_biking",
+        "hiking",
+        "scenic_views"
+      ],
+      "image": "https://i.postimg.cc/HLzgPPZR/Hunasgiriya.jpg"
+    }
+  ],
+  "cultural": [
+    {
+      "name": "Kandy",
+      "cost": 40,
+      "duration": 2,
+      "activities": [
+        "temple",
+        "cultural_show",
+        "lake"
+      ],
+      "image": "https://i.postimg.cc/K87tHcJ8/Kandy-1.jpg"
+    },
+    {
+      "name": "Anuradhapura",
+      "cost": 35,
+      "duration": 2,
+      "activities": [
+        "archaeology",
+        "temples",
+        "history"
+      ],
+      "image": "https://i.postimg.cc/xdtM9xrr/Anuradhapura-1.jpg"
+    },
+    {
+      "name": "Polonnaruwa",
+      "cost": 45,
+      "duration": 1,
+      "activities": [
+        "history",
+        "cycling",
+        "ruins"
+      ],
+      "image": "https://i.postimg.cc/0N87RgBd/polonnaruwa-1.jpg"
+    },
+    {
+      "name": "Mihintale",
+      "cost": 25,
+      "duration": 1,
+      "activities": [
+        "buddhist_heritage",
+        "climbing",
+        "meditation"
+      ],
+      "image": "https://i.postimg.cc/JnFXks4P/Mihintale-1.webp"
+    },
+    {
+      "name": "Yapahuwa",
+      "cost": 30,
+      "duration": 1,
+      "activities": [
+        "ancient_kingdom",
+        "stone_stairway",
+        "history"
+      ],
+      "image": "https://i.postimg.cc/PxJZJWhC/Yapahuwa-1.jpg"
+    },
+    {
+      "name": "Ritigala",
+      "cost": 35,
+      "duration": 1,
+      "activities": [
+        "monastery_ruins",
+        "forest",
+        "meditation"
+      ],
+      "image": "https://i.postimg.cc/HjD76FMM/Ritigala-1.jpg"
+    },
+    {
+      "name": "Buduruwagala",
+      "cost": 20,
+      "duration": 1,
+      "activities": [
+        "rock_carvings",
+        "buddhist_art",
+        "history"
+      ],
+      "image": "https://i.postimg.cc/8cr6BT7D/Buduruwagala-Temple-1.jpg"
+    },
+    {
+      "name": "Isurumuniya",
+      "cost": 15,
+      "duration": 1,
+      "activities": [
+        "temple",
+        "rock_carvings",
+        "pond"
+      ],
+      "image": "https://i.postimg.cc/Vs3Gy6Bq/Isurumuniya.jpg"
+    },
+    {
+      "name": "Mulkirigala",
+      "cost": 25,
+      "duration": 1,
+      "activities": [
+        "rock_temple",
+        "murals",
+        "climbing"
+      ],
+      "image": "https://i.postimg.cc/DwcBbcV6/MULKIRIGALA-ROCK-TEMPLE-1.jpg"
+    },
+    {
+      "name": "Kelaniya Temple",
+      "cost": 10,
+      "duration": 1,
+      "activities": [
+        "temple",
+        "river_side",
+        "religious"
+      ],
+      "image": "https://i.postimg.cc/qMympTj9/Kelaniya-1.jpg"
+    },
+    {
+      "name": "Embekke Devalaya",
+      "cost": 20,
+      "duration": 1,
+      "activities": [
+        "wood_carvings",
+        "architecture",
+        "hindu_temple"
+      ],
+      "image": "https://i.postimg.cc/9fF1PqCh/Embekke-dewalaya-1.jpg"
+    },
+    {
+      "name": "Lankatilaka Temple",
+      "cost": 15,
+      "duration": 1,
+      "activities": [
+        "temple",
+        "frescoes",
+        "architecture"
+      ],
+      "image": "https://i.postimg.cc/pLvsT6Sy/Lankathilaka-vihara.jpg"
+    },
+    {
+      "name": "Gadaladeniya Temple",
+      "cost": 15,
+      "duration": 1,
+      "activities": [
+        "temple",
+        "stone_architecture",
+        "history"
+      ],
+      "image": "https://i.postimg.cc/fb2C8TR0/Gadaladeniya-1.webp"
+    },
+    {
+      "name": "Degaldoruwa Temple",
+      "cost": 10,
+      "duration": 1,
+      "activities": [
+        "cave_paintings",
+        "temple",
+        "art"
+      ],
+      "image": "https://i.postimg.cc/DZRgKjsv/Degaldoruwa-1.jpg"
+    },
+    {
+      "name": "Wewurukannala Vihara",
+      "cost": 15,
+      "duration": 1,
+      "activities": [
+        "giant_buddha",
+        "temple",
+        "climbing"
+      ],
+      "image": "https://i.postimg.cc/bY2gRPcs/wewurukannala-vihara.jpg"
+    },
+    {
+      "name": "Aluvihara Temple",
+      "cost": 20,
+      "duration": 1,
+      "activities": [
+        "cave_temple",
+        "tripitaka",
+        "buddhist_heritage"
+      ],
+      "image": "https://i.postimg.cc/9MDpK5Dg/Alu-vihara.jpg"
+    },
+    {
+      "name": "Gal Vihara",
+      "cost": 25,
+      "duration": 1,
+      "activities": [
+        "rock_sculptures",
+        "buddhist_art",
+        "ancient_craftsmanship"
+      ],
+      "image": "https://i.postimg.cc/cLdcZ8Kn/Gal-vihara-1.jpg"
+    },
+    {
+      "name": "Rankoth Vehera",
+      "cost": 15,
+      "duration": 1,
+      "activities": [
+        "ancient_stupa",
+        "architecture",
+        "pilgrimage"
+      ],
+      "image": "https://i.postimg.cc/6qRh6rLd/Rankot-wehera.webp"
+    },
+    {
+      "name": "Jetavanaramaya",
+      "cost": 20,
+      "duration": 1,
+      "activities": [
+        "ancient_stupa",
+        "archaeology",
+        "buddhist_heritage"
+      ],
+      "image": "https://i.postimg.cc/c4ym9z0T/Jetawanaramaya.jpg"
+    },
+    {
+      "name": "Ruwanwelisaya",
+      "cost": 15,
+      "duration": 1,
+      "activities": [
+        "sacred_stupa",
+        "pilgrimage",
+        "architecture"
+      ],
+      "image": "https://i.postimg.cc/gkVKfK0p/Ruwanweliseya.jpg"
+    },
+    {
+      "name": "Thuparamaya",
+      "cost": 10,
+      "duration": 1,
+      "activities": [
+        "oldest_stupa",
+        "buddhist_heritage",
+        "pilgrimage"
+      ],
+      "image": "https://i.postimg.cc/y8nyNY9r/Thuparamaya.webp"
+    },
+    {
+      "name": "Lovamahapaya",
+      "cost": 15,
+      "duration": 1,
+      "activities": [
+        "brazen_palace",
+        "ruins",
+        "ancient_architecture"
+      ],
+      "image": "https://i.postimg.cc/cJb7Q9FR/Lowamahapaya-1.jpg"
+    },
+    {
+      "name": "Abhayagiri Vihara",
+      "cost": 20,
+      "duration": 1,
+      "activities": [
+        "monastery_complex",
+        "meditation",
+        "ancient_university"
+      ],
+      "image": "https://i.postimg.cc/PqxzvsQf/Abhayagiriya-1.jpg"
+    },
+    {
+      "name": "Maligawila Buddha Statue",
+      "cost": 25,
+      "duration": 1,
+      "activities": [
+        "ancient_sculpture",
+        "restoration",
+        "art"
+      ],
+      "image": "https://i.postimg.cc/wvRXFXrS/Maligawila-Buddha-Statue-1.jpg"
+    },
+    {
+      "name": "Dowa Temple",
+      "cost": 15,
+      "duration": 1,
+      "activities": [
+        "rock_carving",
+        "buddhist_art",
+        "meditation"
+      ],
+      "image": "https://i.postimg.cc/VksX2QT9/Dhowa-temple-1.jpg"
+    },
+    {
+      "name": "Ridi Vihara",
+      "cost": 20,
+      "duration": 1,
+      "activities": [
+        "silver_temple",
+        "cave_paintings",
+        "history"
+      ],
+      "image": "https://i.postimg.cc/DyTrdbPM/Ridi-Viahara-1.jpg"
+    },
+    {
+      "name": "Dambegoda Bodhiya",
+      "cost": 10,
+      "duration": 1,
+      "activities": [
+        "sacred_bo_tree",
+        "pilgrimage",
+        "meditation"
+      ],
+      "image": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800&h=600&fit=crop&q=80"
+    },
+    {
+      "name": "Sri Dalada Maligawa",
+      "cost": 30,
+      "duration": 1,
+      "activities": [
+        "tooth_relic",
+        "royal_palace",
+        "cultural_shows"
+      ],
+      "image": "https://i.postimg.cc/D0qq32n6/Dalada-maligawa-1.jpg"
+    },
+    {
+      "name": "National Museum Colombo",
+      "cost": 25,
+      "duration": 2,
+      "activities": [
+        "artifacts",
+        "royal_regalia",
+        "cultural_education"
+      ],
+      "image": "https://i.postimg.cc/QxJp6x6x/Colombo-National-Museum-2.jpg"
+    },
+    {
+      "name": "Dutch Museum Colombo",
+      "cost": 15,
+      "duration": 1,
+      "activities": [
+        "colonial_history",
+        "artifacts",
+        "architecture"
+      ],
+      "image": "https://images.unsplash.com/photo-1567696911980-2eed69a46042?w=800&h=600&fit=crop&q=80"
+    }
+  ],
+  "relaxation": [
+    {
+      "name": "Bentota",
+      "cost": 80,
+      "duration": 3,
+      "activities": [
+        "beach",
+        "spa",
+        "water_sports"
+      ],
+      "image": "https://i.postimg.cc/kMv54pDp/Bentota.webp"
+    },
+    {
+      "name": "Unawatuna",
+      "cost": 60,
+      "duration": 2,
+      "activities": [
+        "beach",
+        "swimming",
+        "snorkeling"
+      ],
+      "image": "https://i.postimg.cc/8Pkzrm6P/Unawatuna.jpg"
+    },
+    {
+      "name": "Negombo",
+      "cost": 50,
+      "duration": 2,
+      "activities": [
+        "beach",
+        "fishing",
+        "lagoon"
+      ],
+      "image": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=800&h=600&fit=crop&q=80"
+    },
+    {
+      "name": "Hikkaduwa",
+      "cost": 70,
+      "duration": 3,
+      "activities": [
+        "beach",
+        "coral_reef",
+        "nightlife"
+      ],
+      "image": "https://i.postimg.cc/qq4Mw8Dw/Hikkaduwa.jpg"
+    },
+    {
+      "name": "Weligama",
+      "cost": 55,
+      "duration": 2,
+      "activities": [
+        "beach",
+        "stilt_fishermen",
+        "bay"
+      ],
+      "image": "https://i.postimg.cc/RhdCDNjB/Weligama.jpg"
+    },
+    {
+      "name": "Tangalle",
+      "cost": 65,
+      "duration": 3,
+      "activities": [
+        "beach",
+        "turtle_watching",
+        "lagoon"
+      ],
+      "image": "https://i.postimg.cc/8Cf5zkrR/Tangalle.webp"
+    },
+    {
+      "name": "Koggala",
+      "cost": 50,
+      "duration": 2,
+      "activities": [
+        "beach",
+        "lake",
+        "spa"
+      ],
+      "image": "https://i.postimg.cc/hj9tVCsh/Koggala.jpg"
+    },
+    {
+      "name": "Ahungalla",
+      "cost": 75,
+      "duration": 3,
+      "activities": [
+        "beach",
+        "ayurveda",
+        "turtle_hatchery"
+      ],
+      "image": "https://i.postimg.cc/K8Hjb34c/Ahungalla.webp"
+    },
+    {
+      "name": "Beruwala",
+      "cost": 60,
+      "duration": 2,
+      "activities": [
+        "beach",
+        "water_sports",
+        "mosque"
+      ],
+      "image": "https://i.postimg.cc/50ctYcwZ/beruwala.jpg"
+    },
+    {
+      "name": "Kalutara",
+      "cost": 50,
+      "duration": 2,
+      "activities": [
+        "beach",
+        "temple",
+        "river"
+      ],
+      "image": "https://i.postimg.cc/0yQjh0kH/Kalutara.webp"
+    },
+    {
+      "name": "Wadduwa",
+      "cost": 55,
+      "duration": 2,
+      "activities": [
+        "beach",
+        "ayurveda",
+        "quiet"
+      ],
+      "image": "https://i.postimg.cc/sDK1nNrh/Wadduwa.webp"
+    },
+    {
+      "name": "Induruwa",
+      "cost": 45,
+      "duration": 2,
+      "activities": [
+        "beach",
+        "turtle_hatchery",
+        "fishing"
+      ],
+      "image": "https://i.postimg.cc/bNqs9jKP/Induruwa.webp"
+    },
+    {
+      "name": "Marawila",
+      "cost": 40,
+      "duration": 2,
+      "activities": [
+        "beach",
+        "coconut_estates",
+        "fishing"
+      ],
+      "image": "https://i.postimg.cc/nrGMfd9N/narawila.webp"
+    },
+    {
+      "name": "Chilaw",
+      "cost": 35,
+      "duration": 2,
+      "activities": [
+        "beach",
+        "lagoon",
+        "fishing"
+      ],
+      "image": "https://i.postimg.cc/GtC9N0tk/Chilaw.webp"
+    },
+    {
+      "name": "Kalpitiya",
+      "cost": 70,
+      "duration": 3,
+      "activities": [
+        "beach",
+        "dolphin_watching",
+        "kite_surfing"
+      ],
+      "image": "https://i.postimg.cc/k5L2QRdY/Kalpitiya.webp"
+    },
+    {
+      "name": "Mount Lavinia",
+      "cost": 45,
+      "duration": 2,
+      "activities": [
+        "beach",
+        "golden_mile",
+        "seafood"
+      ],
+      "image": "https://i.postimg.cc/59BXztKp/Mount-Lavinia.jpg"
+    },
+    {
+      "name": "Dehiwala Beach",
+      "cost": 30,
+      "duration": 1,
+      "activities": [
+        "beach",
+        "zoo_nearby",
+        "urban_beach"
+      ],
+      "image": "https://i.postimg.cc/1z8gVcbN/Dehiwala-Beach.jpg"
+    },
+    {
+      "name": "Panadura Beach",
+      "cost": 25,
+      "duration": 1,
+      "activities": [
+        "beach",
+        "river_mouth",
+        "local_life"
+      ],
+      "image": "https://i.postimg.cc/V6MdDsff/Panadura-Beach.webp"
+    },
+    {
+      "name": "Moratuwa Beach",
+      "cost": 20,
+      "duration": 1,
+      "activities": [
+        "beach",
+        "fishing_boats",
+        "local_culture"
+      ],
+      "image": "https://i.postimg.cc/FHWdKnC4/Moratuwa-Beach.jpg"
+    },
+    {
+      "name": "Siddhalepa Ayurveda Resort",
+      "cost": 120,
+      "duration": 5,
+      "activities": [
+        "ayurveda",
+        "wellness",
+        "meditation"
+      ],
+      "image": "https://i.postimg.cc/7YNJFLgb/Siddhalepa-Ayurveda-Resort.jpg"
+    },
+    {
+      "name": "Jetwing Ayurveda Pavilions",
+      "cost": 150,
+      "duration": 7,
+      "activities": [
+        "luxury_ayurveda",
+        "spa",
+        "yoga"
+      ],
+      "image": "https://i.postimg.cc/4NGh2cHr/Jetwing-Ayurveda-Pavilions.webp"
+    },
+    {
+      "name": "Lotus Villa Ayurveda",
+      "cost": 100,
+      "duration": 5,
+      "activities": [
+        "traditional_ayurveda",
+        "detox",
+        "relaxation"
+      ],
+      "image": "https://i.postimg.cc/zDKgk7vC/Lotus-Villa-Ayurveda.jpg"
+    },
+    {
+      "name": "Heritance Ayurveda",
+      "cost": 180,
+      "duration": 7,
+      "activities": [
+        "luxury_wellness",
+        "beach_ayurveda",
+        "spa"
+      ],
+      "image": "https://i.postimg.cc/W3JJC6nP/Heritance-Ayurveda.webp"
+    },
+    {
+      "name": "Barberyn Reef Ayurveda",
+      "cost": 140,
+      "duration": 6,
+      "activities": [
+        "authentic_ayurveda",
+        "wellness",
+        "yoga"
+      ],
+      "image": "https://i.postimg.cc/T1MW6L75/Barberyn-Reef-Ayurveda.jpg"
+    },
+    {
+      "name": "Paradise Island Resort",
+      "cost": 90,
+      "duration": 4,
+      "activities": [
+        "island_resort",
+        "water_sports",
+        "relaxation"
+      ],
+      "image": "https://i.postimg.cc/KYjTry3j/Paradise-Island-Resort.webp"
+    },
+    {
+      "name": "Centara Ceysands",
+      "cost": 110,
+      "duration": 4,
+      "activities": [
+        "luxury_beach",
+        "spa",
+        "golf"
+      ],
+      "image": "https://i.postimg.cc/SNLcmdpS/Centara-Ceysands.webp"
+    },
+    {
+      "name": "Cinnamon Bey",
+      "cost": 95,
+      "duration": 3,
+      "activities": [
+        "beachfront",
+        "water_sports",
+        "spa"
+      ],
+      "image": "https://i.postimg.cc/L6Fzd7wQ/Cinnamon-Bey.webp"
+    },
+    {
+      "name": "Club Hotel Dolphin",
+      "cost": 85,
+      "duration": 3,
+      "activities": [
+        "beach_resort",
+        "water_sports",
+        "entertainment"
+      ],
+      "image": "https://i.postimg.cc/XYQFCvJt/Club-Hotel-Dolphin.jpg"
+    },
+    {
+      "name": "Shinagawa Beach",
+      "cost": 40,
+      "duration": 2,
+      "activities": [
+        "secluded_beach",
+        "fishing",
+        "quiet_retreat"
+      ],
+      "image": "https://i.postimg.cc/xdZz6FLR/Shinagawa-Beach.jpg"
+    },
+    {
+      "name": "Rekawa Turtle Beach",
+      "cost": 35,
+      "duration": 2,
+      "activities": [
+        "turtle_watching",
+        "conservation",
+        "beach_camping"
+      ],
+      "image": "https://i.postimg.cc/zDgnc5tR/Rekawa-Turtle-Beach.webp"
+    }
+  ],
+  "nature": [
+    {
+      "name": "Horton Plains",
+      "cost": 40,
+      "duration": 1,
+      "activities": [
+        "hiking",
+        "wildlife",
+        "worlds_end"
+      ],
+      "image": "https://i.postimg.cc/qRzDhYGH/Horton-Plains.webp"
+    },
+    {
+      "name": "Yala National Park",
+      "cost": 70,
+      "duration": 2,
+      "activities": [
+        "safari",
+        "wildlife",
+        "leopards"
+      ],
+      "image": "https://i.postimg.cc/2ytH7x2L/OIP.webp"
+    },
+    {
+      "name": "Sinharaja",
+      "cost": 55,
+      "duration": 2,
+      "activities": [
+        "rainforest",
+        "birdwatching",
+        "trekking"
+      ],
+      "image": "https://i.postimg.cc/0jM1j5k1/Sinharaja-Edge.webp"
+    },
+    {
+      "name": "Minneriya National Park",
+      "cost": 50,
+      "duration": 1,
+      "activities": [
+        "elephant_gathering",
+        "safari",
+        "lake"
+      ],
+      "image": "https://i.postimg.cc/zfdPf5Kk/Minneriya-National-Park.webp"
+    },
+    {
+      "name": "Kaudulla National Park",
+      "cost": 45,
+      "duration": 1,
+      "activities": [
+        "elephants",
+        "safari",
+        "tank"
+      ],
+      "image": "https://i.postimg.cc/x12Zx69L/Kaudulla-National-Park.webp"
+    },
+    {
+      "name": "Bundala National Park",
+      "cost": 40,
+      "duration": 1,
+      "activities": [
+        "birds",
+        "lagoons",
+        "wildlife"
+      ],
+      "image": "https://i.postimg.cc/c4YjBpGs/Bundala-National-Park.webp"
+    },
+    {
+      "name": "Kumana National Park",
+      "cost": 55,
+      "duration": 2,
+      "activities": [
+        "birds",
+        "safari",
+        "swamps"
+      ],
+      "image": "https://i.postimg.cc/7ZnWpSLd/kumana.jpg"
+    },
+    {
+      "name": "Gal Oya National Park",
+      "cost": 65,
+      "duration": 2,
+      "activities": [
+        "boat_safari",
+        "elephants",
+        "reservoir"
+      ],
+      "image": "https://i.postimg.cc/5t9R1jY0/Gal-Oya-National-Park.jpg"
+    },
+    {
+      "name": "Wasgamuwa National Park",
+      "cost": 50,
+      "duration": 1,
+      "activities": [
+        "elephants",
+        "safari",
+        "river"
+      ],
+      "image": "https://i.postimg.cc/RC2yfM8s/wasgamuwa.webp"
+    },
+    {
+      "name": "Maduru Oya National Park",
+      "cost": 45,
+      "duration": 1,
+      "activities": [
+        "reservoir",
+        "wildlife",
+        "ancient_ruins"
+      ],
+      "image": "https://i.postimg.cc/FFYw7fPk/Maduru-Oya-National-Park.jpg"
+    },
+    {
+      "name": "Bopath Ella",
+      "cost": 15,
+      "duration": 1,
+      "activities": [
+        "waterfall",
+        "swimming",
+        "nature"
+      ],
+      "image": "https://i.postimg.cc/8cfdNgms/Bopath-Ella.webp"
+    },
+    {
+      "name": "Sekumpura Falls",
+      "cost": 20,
+      "duration": 1,
+      "activities": [
+        "waterfall",
+        "hiking",
+        "natural_pool"
+      ],
+      "image": "https://i.postimg.cc/9z3dfgLb/Sekumpura-Falls.webp"
+    },
+    {
+      "name": "Ramboda Falls",
+      "cost": 10,
+      "duration": 1,
+      "activities": [
+        "waterfall",
+        "roadside",
+        "photography"
+      ],
+      "image": "https://i.postimg.cc/wvG5CjJS/Ramboda-Falls.webp"
+    },
+    {
+      "name": "Devon Falls",
+      "cost": 15,
+      "duration": 1,
+      "activities": [
+        "waterfall",
+        "tea_estates",
+        "views"
+      ],
+      "image": "https://i.postimg.cc/MGtmYDGZ/Devon-Falls.webp"
+    },
+    {
+      "name": "St. Clairs Falls",
+      "cost": 10,
+      "duration": 1,
+      "activities": [
+        "waterfall",
+        "tea_estates",
+        "views"
+      ],
+      "image": "https://i.postimg.cc/MTTb3Qc7/St-Clairs-Falls.webp"
+    },
+    {
+      "name": "Lovers Leap Falls",
+      "cost": 15,
+      "duration": 1,
+      "activities": [
+        "waterfall",
+        "romantic",
+        "views"
+      ],
+      "image": "https://i.postimg.cc/Dwk6f0Dh/Lovers-Leap-Falls.webp"
+    },
+    {
+      "name": "Dunhinda Falls",
+      "cost": 20,
+      "duration": 1,
+      "activities": [
+        "waterfall",
+        "hiking",
+        "mist"
+      ],
+      "image": "https://i.postimg.cc/8zRH7DQ6/dunhida.jpg"
+    },
+    {
+      "name": "Ravana Falls",
+      "cost": 10,
+      "duration": 1,
+      "activities": [
+        "waterfall",
+        "legend",
+        "swimming"
+      ],
+      "image": "https://i.postimg.cc/jjRhN9tk/Ravana-Falls.jpg"
+    },
+    {
+      "name": "Kithulgala Forest Reserve",
+      "cost": 30,
+      "duration": 1,
+      "activities": [
+        "forest",
+        "birds",
+        "river"
+      ],
+      "image": "https://i.postimg.cc/ZKNhhqsr/Kitulgala-Forest.jpg"
+    },
+    {
+      "name": "Kanneliya Forest Reserve",
+      "cost": 25,
+      "duration": 1,
+      "activities": [
+        "rainforest",
+        "biodiversity",
+        "hiking"
+      ],
+      "image": "https://i.postimg.cc/WbJSPg5S/Kanneliya-Forest-Reserve.jpg"
+    },
+    {
+      "name": "Hakgala Botanical Garden",
+      "cost": 20,
+      "duration": 1,
+      "activities": [
+        "botanical_garden",
+        "alpine_plants",
+        "research"
+      ],
+      "image": "https://i.postimg.cc/3rq96nFd/Hakgala-Botanical-Garden.webp"
+    },
+    {
+      "name": "Peradeniya Botanical Garden",
+      "cost": 25,
+      "duration": 2,
+      "activities": [
+        "royal_garden",
+        "orchids",
+        "spice_garden"
+      ],
+      "image": "https://i.postimg.cc/br4TtwwQ/Peradeniya-Botanical-Garden.jpg"
+    },
+    {
+      "name": "Gampaha Botanical Garden",
+      "cost": 15,
+      "duration": 1,
+      "activities": [
+        "wetland_garden",
+        "birds",
+        "nature_walk"
+      ],
+      "image": "https://i.postimg.cc/XqrLqC4j/Gampaha-Botanical-Garden.webp"
+    },
+    {
+      "name": "Dry Zone Botanic Garden",
+      "cost": 20,
+      "duration": 1,
+      "activities": [
+        "arid_plants",
+        "research",
+        "education"
+      ],
+      "image": "https://i.postimg.cc/Qt4SjbLY/Dry-Zone-Botanic-Garden.webp"
+    },
+    {
+      "name": "Brief Garden",
+      "cost": 30,
+      "duration": 1,
+      "activities": [
+        "landscape_garden",
+        "art",
+        "sculptures"
+      ],
+      "image": "https://i.postimg.cc/tTC20ccV/Brief-Garden.webp"
+    },
+    {
+      "name": "Lunuganga Garden",
+      "cost": 35,
+      "duration": 1,
+      "activities": [
+        "geoffrey_bawa",
+        "landscape_design",
+        "lake"
+      ],
+      "image": "https://i.postimg.cc/g0KNTpgW/Lunuganga-Garden.webp"
+    },
+    {
+      "name": "Henerathgoda Botanic Garden",
+      "cost": 15,
+      "duration": 1,
+      "activities": [
+        "rubber_tree_history",
+        "plants",
+        "education"
+      ],
+      "image": "https://i.postimg.cc/3xmL2mpW/Henerathgoda-Botanic-Garden.webp"
+    },
+    {
+      "name": "Sigiriya Forest",
+      "cost": 30,
+      "duration": 1,
+      "activities": [
+        "forest_trails",
+        "birds",
+        "nature_walk"
+      ],
+      "image": "https://i.postimg.cc/mr4mjkNj/Sigiriya-Forest.jpg"
+    },
+    {
+      "name": "Ritigala Forest Monastery",
+      "cost": 25,
+      "duration": 1,
+      "activities": [
+        "ancient_forest",
+        "meditation",
+        "biodiversity"
+      ],
+      "image": "https://i.postimg.cc/RCpbmM4C/Ritigala-Forest-Monastery.jpg"
+    },
+    {
+      "name": "Cloud Forest Ohiya",
+      "cost": 35,
+      "duration": 2,
+      "activities": [
+        "cloud_forest",
+        "endemic_species",
+        "mist"
+      ],
+      "image": "https://i.postimg.cc/Yq4DqJC6/Cloud-Forest-Ohiya.webp"
+    },
+    {
+      "name": "Senanayake Samudraya",
+      "cost": 30,
+      "duration": 1,
+      "activities": [
+        "large_reservoir",
+        "birds",
+        "boat_rides"
+      ],
+      "image": "https://i.postimg.cc/5yy7zrqM/Senanayake-Samudraya.webp"
+    },
+    {
+      "name": "Victoria Dam",
+      "cost": 25,
+      "duration": 1,
+      "activities": [
+        "reservoir",
+        "scenic_views",
+        "boat_trips"
+      ],
+      "image": "https://i.postimg.cc/cHXkrW3m/Victoria-Dam.webp"
+    },
+    {
+      "name": "Mahaweli River Safari",
+      "cost": 40,
+      "duration": 1,
+      "activities": [
+        "river_safari",
+        "birds",
+        "crocodiles"
+      ],
+      "image": "https://i.postimg.cc/TwRHd1K1/Mahaweli-River-Safari.webp"
+    },
+    {
+      "name": "Madu River Safari",
+      "cost": 35,
+      "duration": 1,
+      "activities": [
+        "mangrove_safari",
+        "islands",
+        "birds"
+      ],
+      "image": "https://i.postimg.cc/GhZ7Bq4Z/Madu-River-Safari.jpg"
+    },
+    {
+      "name": "Bentota River Safari",
+      "cost": 30,
+      "duration": 1,
+      "activities": [
+        "river_cruise",
+        "mangroves",
+        "wildlife"
+      ],
+      "image": "https://i.postimg.cc/XvKz6d7t/Bentota-River-Safari.webp"
+    }
+  ],
+  "food_tourism": [
+    {
+      "name": "Colombo Food Tour",
+      "cost": 35,
+      "duration": 1,
+      "activities": [
+        "street_food",
+        "restaurants",
+        "cooking"
+      ],
+      "image": "https://i.postimg.cc/SKyCvMXZ/Colombo-Food-Tour.jpg"
+    },
+    {
+      "name": "Galle Food Experience",
+      "cost": 45,
+      "duration": 1,
+      "activities": [
+        "local_cuisine",
+        "spices",
+        "seafood"
+      ],
+      "image": "https://i.postimg.cc/5258g3tY/Galle-Food-Experience.webp"
+    },
+    {
+      "name": "Kandy Food Walk",
+      "cost": 30,
+      "duration": 1,
+      "activities": [
+        "traditional_food",
+        "market",
+        "cooking_class"
+      ],
+      "image": "https://i.postimg.cc/52Ww8GfW/kandy-food.webp"
+    },
+    {
+      "name": "Negombo Fish Market",
+      "cost": 20,
+      "duration": 1,
+      "activities": [
+        "fresh_seafood",
+        "local_experience",
+        "market"
+      ],
+      "image": "https://i.postimg.cc/TYDVLGMc/Negombo-Fish-Market.webp"
+    },
+    {
+      "name": "Matale Spice Garden",
+      "cost": 25,
+      "duration": 1,
+      "activities": [
+        "spice_tour",
+        "cooking",
+        "herbs"
+      ],
+      "image": "https://i.postimg.cc/sf8Pgx8X/Matale-Spice-Garden.jpg"
+    },
+    {
+      "name": "Dambulla Market",
+      "cost": 15,
+      "duration": 1,
+      "activities": [
+        "vegetables",
+        "local_produce",
+        "market"
+      ],
+      "image": "https://i.postimg.cc/T1Zn7Nmm/Dambulla-Market.webp"
+    },
+    {
+      "name": "Pettah Market Food Tour",
+      "cost": 25,
+      "duration": 1,
+      "activities": [
+        "street_food",
+        "local_snacks",
+        "market"
+      ],
+      "image": "https://i.postimg.cc/d3789c7w/Pettah-Market-Food-Tour.webp"
+    },
+    {
+      "name": "Jaffna Food Experience",
+      "cost": 40,
+      "duration": 1,
+      "activities": [
+        "tamil_cuisine",
+        "crab_curry",
+        "palmyra"
+      ],
+      "image": "https://i.postimg.cc/sXHYSggT/Jaffna-Food-Experience.webp"
+    },
+    {
+      "name": "Ella Tea Factory",
+      "cost": 20,
+      "duration": 1,
+      "activities": [
+        "tea_tasting",
+        "factory_tour",
+        "plantation"
+      ],
+      "image": "https://i.postimg.cc/Jnz3GkMy/Ella-Tea-Factory.jpg"
+    },
+    {
+      "name": "Peradeniya Spice Garden",
+      "cost": 30,
+      "duration": 1,
+      "activities": [
+        "spice_tour",
+        "botanical",
+        "ayurveda"
+      ],
+      "image": "https://i.postimg.cc/d0BmsBPP/Peradeniya-Spice-Garden.webp"
+    },
+    {
+      "name": "Weligama Bay Fish Market",
+      "cost": 15,
+      "duration": 1,
+      "activities": [
+        "fresh_fish",
+        "local_life",
+        "morning_market"
+      ],
+      "image": "https://i.postimg.cc/bv89f559/Weligama-Bay-Fish-Market.webp"
+    },
+    {
+      "name": "Chilaw Fish Market",
+      "cost": 20,
+      "duration": 1,
+      "activities": [
+        "fishing_boats",
+        "seafood",
+        "coastal_life"
+      ],
+      "image": "https://i.postimg.cc/XY9khWsv/Chilaw-Fish-Market.webp"
+    },
+    {
+      "name": "Batticaloa Lagoon Crab",
+      "cost": 35,
+      "duration": 1,
+      "activities": [
+        "crab_fishing",
+        "lagoon_cuisine",
+        "local_food"
+      ],
+      "image": "https://i.postimg.cc/3JsZnNC6/Batticaloa-Lagoon-Crab.webp"
+    },
+    {
+      "name": "Trincomalee Fish Harbor",
+      "cost": 25,
+      "duration": 1,
+      "activities": [
+        "fishing_harbor",
+        "seafood",
+        "tamil_cuisine"
+      ],
+      "image": "https://i.postimg.cc/FFnpkDfh/Trincomalee-Fish-Harbor.webp"
+    },
+    {
+      "name": "Nuwara Eliya Strawberry Farm",
+      "cost": 20,
+      "duration": 1,
+      "activities": [
+        "strawberry_picking",
+        "farm_tour",
+        "fresh_produce"
+      ],
+      "image": "https://i.postimg.cc/0jrCHJ4g/nuwareliya-staberyfram.webp"
+    },
+    {
+      "name": "Pinnawala Elephant Orphanage Restaurant",
+      "cost": 40,
+      "duration": 1,
+      "activities": [
+        "traditional_buffet",
+        "elephant_viewing",
+        "local_cuisine"
+      ],
+      "image": "https://i.postimg.cc/WbFnGgrg/Pinnawala-Elephant-Orphanage-Restaurant.jpg"
+    },
+    {
+      "name": "Sigiriya Village Tour",
+      "cost": 50,
+      "duration": 2,
+      "activities": [
+        "village_cooking",
+        "organic_farming",
+        "traditional_methods"
+      ],
+      "image": "https://i.postimg.cc/Kz0NN5Jr/sigiriya-vilage.webp"
+    },
+    {
+      "name": "Hiriwadunna Village Experience",
+      "cost": 45,
+      "duration": 2,
+      "activities": [
+        "village_life",
+        "traditional_cooking",
+        "catamaran_ride"
+      ],
+      "image": "https://i.postimg.cc/tJfz040s/Hiriwadunna-Village-Experience.jpg"
+    },
+    {
+      "name": "Udawalawe Cooking Class",
+      "cost": 35,
+      "duration": 1,
+      "activities": [
+        "local_cooking",
+        "elephant_park_nearby",
+        "traditional_recipes"
+      ],
+      "image": "https://i.postimg.cc/d1s6rfmV/Udawalawe-Cooking-Class.webp"
+    },
+    {
+      "name": "Polonnaruwa Food Trail",
+      "cost": 30,
+      "duration": 1,
+      "activities": [
+        "ancient_city_food",
+        "local_restaurants",
+        "cultural_dining"
+      ],
+      "image": "https://i.postimg.cc/43bwKGc0/Polonnaruwa-Food-Trail.webp"
+    },
+    {
+      "name": "Anuradhapura Traditional Meal",
+      "cost": 25,
+      "duration": 1,
+      "activities": [
+        "ancient_recipes",
+        "temple_food",
+        "vegetarian_cuisine"
+      ],
+      "image": "https://i.postimg.cc/wBd0TM1J/Anuradhapura-Traditional-Meal.webp"
+    },
+    {
+      "name": "Nuwara Eliya English Breakfast",
+      "cost": 35,
+      "duration": 1,
+      "activities": [
+        "colonial_breakfast",
+        "hill_country",
+        "tea_plantation"
+      ],
+      "image": "https://i.postimg.cc/kgSTmKgq/Nuwara-Eliya-English-Breakfast.webp"
+    },
+    {
+      "name": "Gampola King Coconut Tour",
+      "cost": 20,
+      "duration": 1,
+      "activities": [
+        "coconut_tasting",
+        "plantation_tour",
+        "fresh_coconut_water"
+      ],
+      "image": "https://i.postimg.cc/xjsxy9ZD/Gampola-King-Coconut-Tour.webp"
+    },
+    {
+      "name": "Kurunegala Cashew Factory",
+      "cost": 25,
+      "duration": 1,
+      "activities": [
+        "cashew_processing",
+        "tasting",
+        "factory_tour"
+      ],
+      "image": "https://i.postimg.cc/MHr9WYBK/Kurunegala-Cashew-Factory.webp"
+    },
+    {
+      "name": "Kalutara Mangosteen Farm",
+      "cost": 30,
+      "duration": 1,
+      "activities": [
+        "tropical_fruits",
+        "farm_tour",
+        "fruit_tasting"
+      ],
+      "image": "https://i.postimg.cc/3JdLtPMy/Kalutara-Mangosteen-Farm.webp"
+    },
+    {
+      "name": "Ratnapura Gem Miner Lunch",
+      "cost": 35,
+      "duration": 1,
+      "activities": [
+        "traditional_miner_food",
+        "local_culture",
+        "authentic_experience"
+      ],
+      "image": "https://i.postimg.cc/Qxwfw0sf/Ratnapura-Gem-Miner-Lunch.jpg"
+    },
+    {
+      "name": "Habaraduwa Cinnamon Tour",
+      "cost": 25,
+      "duration": 1,
+      "activities": [
+        "cinnamon_plantation",
+        "spice_processing",
+        "traditional_methods"
+      ],
+      "image": "https://i.postimg.cc/V6mG4v11/Habaraduwa-Cinnamon-Tour.jpg"
+    },
+    {
+      "name": "Beruwala Mosque Street Food",
+      "cost": 15,
+      "duration": 1,
+      "activities": [
+        "muslim_cuisine",
+        "street_food",
+        "local_culture"
+      ],
+      "image": "https://i.postimg.cc/B6phz3QF/Beruwala-Mosque-Street-Food.webp"
+    },
+    {
+      "name": "Kegalle Rubber Estate Lunch",
+      "cost": 30,
+      "duration": 1,
+      "activities": [
+        "estate_workers_food",
+        "plantation_life",
+        "authentic_meals"
+      ],
+      "image": "https://i.postimg.cc/j2j801LF/Kegalle-Rubber-Estate-Lunch.webp"
+    },
+    {
+      "name": "Mawanella Spice Village",
+      "cost": 40,
+      "duration": 2,
+      "activities": [
+        "spice_cultivation",
+        "cooking_classes",
+        "traditional_village_life"
+      ],
+      "image": "https://i.postimg.cc/25494vs2/Mawanella-Spice-Village.webp"
+    }
+  ],
+  "urban": [
+    {
+      "name": "Colombo City",
+      "cost": 60,
+      "duration": 2,
+      "activities": [
+        "shopping",
+        "museums",
+        "nightlife"
+      ],
+      "image": "https://i.postimg.cc/Rhyb1zRz/Colombo-City.webp"
+    },
+    {
+      "name": "Galle Fort",
+      "cost": 40,
+      "duration": 1,
+      "activities": [
+        "walking",
+        "colonial_architecture",
+        "galleries"
+      ],
+      "image": "https://i.postimg.cc/J0G2Bhjq/Galle-Fort.webp"
+    },
+    {
+      "name": "Jaffna City",
+      "cost": 50,
+      "duration": 2,
+      "activities": [
+        "tamil_culture",
+        "fort",
+        "library"
+      ],
+      "image": "https://i.postimg.cc/MKfL6v6Z/Jaffna-City.jpg"
+    },
+    {
+      "name": "Batticaloa",
+      "cost": 45,
+      "duration": 2,
+      "activities": [
+        "lagoon",
+        "fort",
+        "singing_fish"
+      ],
+      "image": "https://i.postimg.cc/Qt6zt7KC/batticolo.webp"
+    },
+    {
+      "name": "Trincomalee",
+      "cost": 55,
+      "duration": 2,
+      "activities": [
+        "natural_harbor",
+        "fort",
+        "beaches"
+      ],
+      "image": "https://i.postimg.cc/L4b7FzM0/Trincomalee.jpg"
+    },
+    {
+      "name": "Matara",
+      "cost": 35,
+      "duration": 1,
+      "activities": [
+        "fort",
+        "temples",
+        "beaches"
+      ],
+      "image": "https://i.postimg.cc/0NsFHPqk/Matara.webp"
+    },
+    {
+      "name": "Ratnapura",
+      "cost": 40,
+      "duration": 1,
+      "activities": [
+        "gem_mining",
+        "museums",
+        "markets"
+      ],
+      "image": "https://i.postimg.cc/rwW7Jz3Z/Ratnapura.webp"
+    },
+    {
+      "name": "Badulla",
+      "cost": 30,
+      "duration": 1,
+      "activities": [
+        "town_center",
+        "temples",
+        "shopping"
+      ],
+      "image": "https://i.postimg.cc/QMJP2wXp/Badulla.jpg"
+    },
+    {
+      "name": "Kurunegala",
+      "cost": 35,
+      "duration": 1,
+      "activities": [
+        "coconut_triangle",
+        "rock",
+        "shopping"
+      ],
+      "image": "https://i.postimg.cc/xTBWMLxb/Kurunegala.webp"
+    },
+    {
+      "name": "Anuradhapura City",
+      "cost": 25,
+      "duration": 1,
+      "activities": [
+        "modern_city",
+        "markets",
+        "restaurants"
+      ],
+      "image": "https://i.postimg.cc/dQNMQbG6/Anuradhapura-City.webp"
+    },
+    {
+      "name": "Hambantota",
+      "cost": 40,
+      "duration": 1,
+      "activities": [
+        "new_town",
+        "port",
+        "cricket_stadium"
+      ],
+      "image": "https://i.postimg.cc/tTRfpkT8/Hambantota.jpg"
+    },
+    {
+      "name": "Puttalam",
+      "cost": 30,
+      "duration": 1,
+      "activities": [
+        "salt_production",
+        "lagoon",
+        "fishing"
+      ],
+      "image": "https://i.postimg.cc/dthbh5BY/Puttalam.jpg"
+    },
+    {
+      "name": "Kegalle",
+      "cost": 25,
+      "duration": 1,
+      "activities": [
+        "rubber_estates",
+        "town_center",
+        "local_life"
+      ],
+      "image": "https://i.postimg.cc/d3xgWCJp/Kegalle.jpg"
+    },
+    {
+      "name": "Kalutara Town",
+      "cost": 20,
+      "duration": 1,
+      "activities": [
+        "temple",
+        "bridge",
+        "shopping"
+      ],
+      "image": "https://i.postimg.cc/0yQjh0kH/Kalutara.webp"
+    },
+    {
+      "name": "Chilaw Town",
+      "cost": 25,
+      "duration": 1,
+      "activities": [
+        "fishing_town",
+        "lagoon",
+        "local_culture"
+      ],
+      "image": "https://i.postimg.cc/hvjHbsRV/Chilaw-Town.webp"
+    },
+    {
+      "name": "Gampaha",
+      "cost": 20,
+      "duration": 1,
+      "activities": [
+        "suburban_town",
+        "temples",
+        "markets"
+      ],
+      "image": "https://i.postimg.cc/50xcj1P7/Gampaha.webp"
+    },
+    {
+      "name": "Monaragala",
+      "cost": 35,
+      "duration": 1,
+      "activities": [
+        "eastern_town",
+        "markets",
+        "local_culture"
+      ],
+      "image": "https://i.postimg.cc/bJL7tMWz/monaragala.webp"
+    },
+    {
+      "name": "Ampara",
+      "cost": 30,
+      "duration": 1,
+      "activities": [
+        "multicultural_town",
+        "paddy_fields",
+        "local_life"
+      ],
+      "image": "https://i.postimg.cc/6QVJ9Th4/Ampara.webp"
+    },
+    {
+      "name": "Vavuniya",
+      "cost": 25,
+      "duration": 1,
+      "activities": [
+        "northern_gateway",
+        "markets",
+        "cultural_mix"
+      ],
+      "image": "https://i.postimg.cc/vZVwN0gz/Vavuniya.webp"
+    },
+    {
+      "name": "Mannar",
+      "cost": 40,
+      "duration": 2,
+      "activities": [
+        "island_town",
+        "baobab_tree",
+        "cultural_heritage"
+      ],
+      "image": "https://i.postimg.cc/Xv66S990/Mannar.webp"
+    },
+    {
+      "name": "Kilinochchi",
+      "cost": 30,
+      "duration": 1,
+      "activities": [
+        "post_war_reconstruction",
+        "memorials",
+        "new_development"
+      ],
+      "image": "https://i.postimg.cc/fTFhCGLy/Kilinochchi.jpg"
+    },
+    {
+      "name": "Mullaitivu",
+      "cost": 35,
+      "duration": 1,
+      "activities": [
+        "coastal_town",
+        "memorials",
+        "fishing_community"
+      ],
+      "image": "https://i.postimg.cc/2y9NPJ7H/Mullaitivu.webp"
+    },
+    {
+      "name": "Puttaluma",
+      "cost": 20,
+      "duration": 1,
+      "activities": [
+        "small_town",
+        "agriculture",
+        "local_markets"
+      ],
+      "image": "https://i.postimg.cc/MTDSYXMJ/Puttaluma.webp"
+    },
+    {
+      "name": "Embilipitiya",
+      "cost": 25,
+      "duration": 1,
+      "activities": [
+        "agricultural_town",
+        "gem_trading",
+        "local_culture"
+      ],
+      "image": "https://i.postimg.cc/Kj8ypFBk/Embilipitiya.webp"
+    },
+    {
+      "name": "Balangoda",
+      "cost": 30,
+      "duration": 1,
+      "activities": [
+        "prehistoric_sites",
+        "tea_estates",
+        "town_center"
+      ],
+      "image": "https://i.postimg.cc/3JWTg83z/Balangoda.jpg"
+    },
+    {
+      "name": "Moneragala Town",
+      "cost": 25,
+      "duration": 1,
+      "activities": [
+        "eastern_commercial_center",
+        "markets",
+        "cultural_diversity"
+      ],
+      "image": "https://i.postimg.cc/bJL7tMWz/monaragala.webp"
+    },
+    {
+      "name": "Kataragama Town",
+      "cost": 35,
+      "duration": 1,
+      "activities": [
+        "pilgrimage_center",
+        "multi_religious",
+        "festivals"
+      ],
+      "image": "https://i.postimg.cc/DZKvgtxL/Kataragama-Town.webp"
+    },
+    {
+      "name": "Tissamaharama",
+      "cost": 30,
+      "duration": 1,
+      "activities": [
+        "ancient_capital",
+        "tanks",
+        "archaeology"
+      ],
+      "image": "https://i.postimg.cc/pTxv8KdB/tissmaharama.jpg"
+    },
+    {
+      "name": "Wellawaya",
+      "cost": 25,
+      "duration": 1,
+      "activities": [
+        "junction_town",
+        "buduruwagala_nearby",
+        "local_markets"
+      ],
+      "image": "https://i.postimg.cc/651BS7H9/Wellawaya.jpg"
+    },
+    {
+      "name": "Mawathagama",
+      "cost": 20,
+      "duration": 1,
+      "activities": [
+        "coconut_cultivation",
+        "rural_town",
+        "agriculture"
+      ],
+      "image": "https://i.postimg.cc/zGbq1JMT/Mawathagama.jpg"
+    },
+    {
+      "name": "Wariyapola",
+      "cost": 15,
+      "duration": 1,
+      "activities": [
+        "small_agricultural_town",
+        "coconut_estates",
+        "rural_life"
+      ],
+      "image": "https://i.postimg.cc/zXdfr2fY/Wariyapola.webp"
+    }
+  ],
+  "beach": [
+    {
+      "name": "Mirissa",
+      "cost": 65,
+      "duration": 2,
+      "activities": [
+        "whale_watching",
+        "surfing",
+        "beach"
+      ],
+      "image": "https://i.postimg.cc/RC6dTHJ7/Mirissa.webp"
+    },
+    {
+      "name": "Arugam Bay",
+      "cost": 55,
+      "duration": 3,
+      "activities": [
+        "surfing",
+        "beach",
+        "lagoon"
+      ],
+      "image": "https://i.postimg.cc/C5q4M3pP/Arugam-Bay.webp"
+    },
+    {
+      "name": "Pasikudah",
+      "cost": 70,
+      "duration": 3,
+      "activities": [
+        "shallow_beach",
+        "calm_waters",
+        "snorkeling"
+      ],
+      "image": "https://i.postimg.cc/ZR0c297h/Pasikudah.webp"
+    },
+    {
+      "name": "Nilaveli",
+      "cost": 60,
+      "duration": 2,
+      "activities": [
+        "white_sand",
+        "coral_island",
+        "diving"
+      ],
+      "image": "https://i.postimg.cc/Bvmpm5Cg/Nilaveli.webp"
+    },
+    {
+      "name": "Uppuveli",
+      "cost": 50,
+      "duration": 2,
+      "activities": [
+        "beach",
+        "snorkeling",
+        "diving"
+      ],
+      "image": "https://i.postimg.cc/TPdQjNn1/Uppuveli.webp"
+    },
+    {
+      "name": "Kalkudah",
+      "cost": 55,
+      "duration": 2,
+      "activities": [
+        "bay",
+        "calm_waters",
+        "beach"
+      ],
+      "image": "https://i.postimg.cc/XY0sqYJw/Kalkudah.webp"
+    },
+    {
+      "name": "Batticaloa Beach",
+      "cost": 40,
+      "duration": 2,
+      "activities": [
+        "lagoon_beach",
+        "bridge",
+        "local_life"
+      ],
+      "image": "https://i.postimg.cc/W3Knv2Cq/Batticaloa-Beach.jpg"
+    },
+    {
+      "name": "Polhena Beach",
+      "cost": 45,
+      "duration": 2,
+      "activities": [
+        "snorkeling",
+        "coral_reef",
+        "swimming"
+      ],
+      "image": "https://i.postimg.cc/PrD6dwtX/Polhena-Beach.jpg"
+    },
+    {
+      "name": "Coconut Tree Hill",
+      "cost": 30,
+      "duration": 1,
+      "activities": [
+        "photography",
+        "sunset",
+        "coconut_trees"
+      ],
+      "image": "https://i.postimg.cc/CMXPyNpr/Coconut-Tree-Hill.webp"
+    },
+    {
+      "name": "Jungle Beach",
+      "cost": 35,
+      "duration": 1,
+      "activities": [
+        "secluded_beach",
+        "snorkeling",
+        "jungle"
+      ],
+      "image": "https://i.postimg.cc/05bWH4FJ/Jungle-Beach.webp"
+    },
+    {
+      "name": "Dalawella Beach",
+      "cost": 40,
+      "duration": 1,
+      "activities": [
+        "rope_swing",
+        "swimming",
+        "photography"
+      ],
+      "image": "https://i.postimg.cc/dDcDvd4Z/Dalawella-Beach.webp"
+    },
+    {
+      "name": "Kabalana Beach",
+      "cost": 45,
+      "duration": 2,
+      "activities": [
+        "surfing",
+        "beach",
+        "quiet"
+      ],
+      "image": "https://i.postimg.cc/Znd01jFh/Kabalana-Beach.webp"
+    },
+    {
+      "name": "Madiha Beach",
+      "cost": 35,
+      "duration": 1,
+      "activities": [
+        "fishing_boats",
+        "swimming",
+        "local_life"
+      ],
+      "image": "https://i.postimg.cc/JngG6SXq/madiha.webp"
+    },
+    {
+      "name": "Hiriketiya Beach",
+      "cost": 50,
+      "duration": 2,
+      "activities": [
+        "surfing",
+        "horseshoe_bay",
+        "backpackers"
+      ],
+      "image": "https://i.postimg.cc/pds98mX3/Hiriketiya-Beach.webp"
+    },
+    {
+      "name": "Medaketiya Beach",
+      "cost": 40,
+      "duration": 2,
+      "activities": [
+        "beach",
+        "swimming",
+        "quiet"
+      ],
+      "image": "https://i.postimg.cc/mrLztYRQ/Medaketiya-Beach.webp"
+    },
+    {
+      "name": "Rekawa Beach",
+      "cost": 35,
+      "duration": 1,
+      "activities": [
+        "turtle_nesting",
+        "conservation",
+        "night_tours"
+      ],
+      "image": "https://i.postimg.cc/zXhRMD0R/Rekawa-Beach.webp"
+    },
+    {
+      "name": "Turtle Beach",
+      "cost": 45,
+      "duration": 1,
+      "activities": [
+        "turtle_watching",
+        "hatchery",
+        "beach"
+      ],
+      "image": "https://i.postimg.cc/y6tZv3XH/Turtle-Beach.webp"
+    },
+    {
+      "name": "Casuarina Beach",
+      "cost": 40,
+      "duration": 2,
+      "activities": [
+        "white_sand",
+        "clear_water",
+        "swimming"
+      ],
+      "image": "https://i.postimg.cc/XY0y0Mz1/Casuarina-Beach.jpg"
+    },
+    {
+      "name": "Marble Beach",
+      "cost": 50,
+      "duration": 2,
+      "activities": [
+        "snorkeling",
+        "diving",
+        "coral_reef"
+      ],
+      "image": "https://i.postimg.cc/zGSHztmz/Marble-Beach.jpg"
+    },
+    {
+      "name": "Mullaitivu Beach",
+      "cost": 45,
+      "duration": 2,
+      "activities": [
+        "memorial",
+        "beach",
+        "history"
+      ],
+      "image": "https://i.postimg.cc/RFbHrNkw/Mullaitivu-Beach.webp"
+    },
+    {
+      "name": "Nilaweli Beach",
+      "cost": 55,
+      "duration": 2,
+      "activities": [
+        "pristine_white_sand",
+        "coral_reefs",
+        "boat_trips"
+      ],
+      "image": "https://i.postimg.cc/vTJxBCHB/Nilaweli-Beach.jpg"
+    },
+    {
+      "name": "Pigeon Island Beach",
+      "cost": 60,
+      "duration": 2,
+      "activities": [
+        "national_park",
+        "snorkeling",
+        "coral_garden"
+      ],
+      "image": "https://i.postimg.cc/Y9SWy1sp/Pigeon-Island-Beach.webp"
+    },
+    {
+      "name": "Okanda Beach",
+      "cost": 40,
+      "duration": 2,
+      "activities": [
+        "surf_point",
+        "temple_nearby",
+        "wild_beach"
+      ],
+      "image": "https://i.postimg.cc/HLzM2S3Z/Okanda-Beach.jpg"
+    },
+    {
+      "name": "Whiskey Point",
+      "cost": 35,
+      "duration": 1,
+      "activities": [
+        "surfing",
+        "rocky_point",
+        "adventure"
+      ],
+      "image": "https://i.postimg.cc/SR2zmm43/Whiskey-Point.jpg"
+    },
+    {
+      "name": "Crocodile Rock",
+      "cost": 30,
+      "duration": 1,
+      "activities": [
+        "surfing",
+        "rock_formation",
+        "photography"
+      ],
+      "image": "https://i.postimg.cc/XYM97Bp8/Crocodile-Rock.webp"
+    },
+    {
+      "name": "Peanut Farm Beach",
+      "cost": 25,
+      "duration": 1,
+      "activities": [
+        "secluded_surfing",
+        "wild_coast",
+        "nature"
+      ],
+      "image": "https://i.postimg.cc/RZcK3Ctz/Peanut-Farm-Beach.jpg"
+    },
+    {
+      "name": "Elephant Rock Beach",
+      "cost": 30,
+      "duration": 1,
+      "activities": [
+        "rock_formation",
+        "swimming",
+        "photography"
+      ],
+      "image": "https://i.postimg.cc/8CNWL8df/Elephant-Rock-Beach.jpg"
+    },
+    {
+      "name": "Lighthouse Point",
+      "cost": 35,
+      "duration": 1,
+      "activities": [
+        "lighthouse",
+        "surfing",
+        "coastal_views"
+      ],
+      "image": "https://i.postimg.cc/Fskj4Vsz/lighthouse.jpg"
+    },
+    {
+      "name": "Kottukal Beach",
+      "cost": 25,
+      "duration": 1,
+      "activities": [
+        "fishing_village",
+        "local_culture",
+        "quiet_beach"
+      ],
+      "image": "https://i.postimg.cc/fypmdJ5M/Kottukal-Beach.webp"
+    },
+    {
+      "name": "Mamadala Beach",
+      "cost": 20,
+      "duration": 1,
+      "activities": [
+        "undeveloped_beach",
+        "nature",
+        "solitude"
+      ],
+      "image": "https://i.postimg.cc/mZ5QJ54K/Mamadala-Beach.jpg"
+    },
+    {
+      "name": "Kudumbigala Beach",
+      "cost": 30,
+      "duration": 1,
+      "activities": [
+        "monastery_nearby",
+        "wild_beach",
+        "spirituality"
+      ],
+      "image": "https://i.postimg.cc/MTsyWsQM/Kudumbigala-Beach.webp"
+    },
+    {
+      "name": "Panama Beach",
+      "cost": 40,
+      "duration": 2,
+      "activities": [
+        "yala_entrance",
+        "surfing",
+        "wildlife_nearby"
+      ],
+      "image": "https://i.postimg.cc/DzPrNffc/Panama-Beach.webp"
+    },
+    {
+      "name": "Bundala Beach",
+      "cost": 35,
+      "duration": 1,
+      "activities": [
+        "bird_sanctuary_nearby",
+        "lagoons",
+        "nature"
+      ],
+      "image": "https://i.postimg.cc/rmy126K2/Bundala-Beach.webp"
+    },
+    {
+      "name": "Hambantota Beach",
+      "cost": 45,
+      "duration": 2,
+      "activities": [
+        "new_development",
+        "port_city",
+        "modern_facilities"
+      ],
+      "image": "https://i.postimg.cc/fyJYkxcH/Hambantota-Beach.jpg"
+    },
+    {
+      "name": "Yala Beach",
+      "cost": 50,
+      "duration": 2,
+      "activities": [
+        "national_park_access",
+        "wildlife",
+        "pristine_nature"
+      ],
+      "image": "https://i.postimg.cc/W4vmSqV3/Yala-Beach.webp"
+    }
+  ],
+  "mountain": [
+    {
+      "name": "Nuwara Eliya",
+      "cost": 70,
+      "duration": 3,
+      "activities": [
+        "tea_plantations",
+        "cool_climate",
+        "scenic"
+      ],
+      "image": "https://i.postimg.cc/52nKrM4L/Nuwara-Eliya.webp"
+    },
+    {
+      "name": "Haputale",
+      "cost": 45,
+      "duration": 2,
+      "activities": [
+        "train_ride",
+        "views",
+        "tea_estates"
+      ],
+      "image": "https://i.postimg.cc/25tczFB5/haputhale.jpg"
+    },
+    {
+      "name": "Bandarawela",
+      "cost": 40,
+      "duration": 2,
+      "activities": [
+        "cool_climate",
+        "tea_estates",
+        "views"
+      ],
+      "image": "https://i.postimg.cc/B61htLxB/Bandarawela.avif"
+    },
+    {
+      "name": "Badulla",
+      "cost": 35,
+      "duration": 2,
+      "activities": [
+        "tea_country",
+        "waterfalls",
+        "temples"
+      ],
+      "image": "https://i.postimg.cc/yNxp4rx5/Badulla.jpg"
+    },
+    {
+      "name": "Diyatalawa",
+      "cost": 30,
+      "duration": 1,
+      "activities": [
+        "military_academy",
+        "cool_climate",
+        "views"
+      ],
+      "image": "https://i.postimg.cc/NjgPb0cQ/Diyatalawa.webp"
+    },
+    {
+      "name": "Welimada",
+      "cost": 25,
+      "duration": 1,
+      "activities": [
+        "potato_fields",
+        "cool_climate",
+        "farming"
+      ],
+      "image": "https://i.postimg.cc/BQfzLg7L/Welimada.webp"
+    },
+    {
+      "name": "Pussellawa",
+      "cost": 35,
+      "duration": 2,
+      "activities": [
+        "tea_estates",
+        "waterfalls",
+        "views"
+      ],
+      "image": "https://i.postimg.cc/GtGSg8tm/Pussellawa.webp"
+    },
+    {
+      "name": "Maskeliya",
+      "cost": 40,
+      "duration": 2,
+      "activities": [
+        "tea_estates",
+        "reservoir",
+        "mountains"
+      ],
+      "image": "https://i.postimg.cc/ncKPvDNd/Maskeliya.jpg"
+    },
+    {
+      "name": "Hatton",
+      "cost": 30,
+      "duration": 1,
+      "activities": [
+        "tea_estates",
+        "adams_peak_base",
+        "plantation"
+      ],
+      "image": "https://i.postimg.cc/fL6rvjwP/Hatton.webp"
+    },
+    {
+      "name": "Talawakelle",
+      "cost": 35,
+      "duration": 2,
+      "activities": [
+        "tea_factory",
+        "waterfalls",
+        "mountains"
+      ],
+      "image": "https://i.postimg.cc/W3DyrfPr/Talawakelle.webp"
+    },
+    {
+      "name": "Ramboda",
+      "cost": 25,
+      "duration": 1,
+      "activities": [
+        "waterfalls",
+        "tea_estates",
+        "views"
+      ],
+      "image": "https://i.postimg.cc/G3yNmNKn/Ramboda.jpg"
+    },
+    {
+      "name": "Ginigathena",
+      "cost": 20,
+      "duration": 1,
+      "activities": [
+        "village_life",
+        "mountains",
+        "agriculture"
+      ],
+      "image": "https://i.postimg.cc/vm2j4wCb/Ginigathena.jpg"
+    },
+    {
+      "name": "Kandapola",
+      "cost": 30,
+      "duration": 1,
+      "activities": [
+        "tea_estates",
+        "cool_climate",
+        "views"
+      ],
+      "image": "https://i.postimg.cc/9Qpsj7p4/Kandapola.webp"
+    },
+    {
+      "name": "Ohiya",
+      "cost": 25,
+      "duration": 1,
+      "activities": [
+        "horton_plains_base",
+        "train_station",
+        "mountains"
+      ],
+      "image": "https://i.postimg.cc/TP3F237t/Ohiya.jpg"
+    },
+    {
+      "name": "Ambewela",
+      "cost": 35,
+      "duration": 2,
+      "activities": [
+        "dairy_farm",
+        "mountains",
+        "cool_climate"
+      ],
+      "image": "https://i.postimg.cc/pLx37ZDb/Ambewela.jpg"
+    },
+    {
+      "name": "Radella",
+      "cost": 30,
+      "duration": 1,
+      "activities": [
+        "train_station",
+        "tea_estates",
+        "mountain_views"
+      ],
+      "image": "https://i.postimg.cc/SQBBLqRK/redella.webp"
+    },
+    {
+      "name": "Idalgashinna",
+      "cost": 25,
+      "duration": 1,
+      "activities": [
+        "train_journey",
+        "mountain_station",
+        "tea_country"
+      ],
+      "image": "https://i.postimg.cc/Vs0yb5YT/Idalgashinna.webp"
+    },
+    {
+      "name": "Ella Gap",
+      "cost": 40,
+      "duration": 2,
+      "activities": [
+        "mountain_pass",
+        "scenic_views",
+        "photography"
+      ],
+      "image": "https://i.postimg.cc/9FyvJSwY/Ella-Gap.jpg"
+    },
+    {
+      "name": "Namunukula",
+      "cost": 45,
+      "duration": 2,
+      "activities": [
+        "mountain_peak",
+        "hiking",
+        "panoramic_views"
+      ],
+      "image": "https://i.postimg.cc/Jng92CQP/Namunukula.webp"
+    },
+    {
+      "name": "Uva Paranagama",
+      "cost": 30,
+      "duration": 1,
+      "activities": [
+        "tea_estates",
+        "mountain_slopes",
+        "village_life"
+      ],
+      "image": "https://i.postimg.cc/sxhtFH6y/Uva-Paranagama.webp"
+    },
+    {
+      "name": "Hapugastenne",
+      "cost": 35,
+      "duration": 2,
+      "activities": [
+        "tea_plantations",
+        "mountain_views",
+        "hiking"
+      ],
+      "image": "https://i.postimg.cc/Y9j5RCQv/Hapugastenne.webp"
+    },
+    {
+      "name": "Demodara",
+      "cost": 25,
+      "duration": 1,
+      "activities": [
+        "nine_arch_bridge",
+        "train_loop",
+        "engineering_marvel"
+      ],
+      "image": "https://i.postimg.cc/Pq6G1wvG/Demodara.webp"
+    },
+    {
+      "name": "Bopattalawa",
+      "cost": 20,
+      "duration": 1,
+      "activities": [
+        "mountain_village",
+        "tea_gardens",
+        "rural_life"
+      ],
+      "image": "https://i.postimg.cc/yN64JPdX/Bopattalawa.webp"
+    },
+    {
+      "name": "Lindula",
+      "cost": 30,
+      "duration": 1,
+      "activities": [
+        "reservoir",
+        "hydroelectric",
+        "mountain_scenery"
+      ],
+      "image": "https://i.postimg.cc/52VMJ1Wr/Lindula.webp"
+    },
+    {
+      "name": "Kotmale",
+      "cost": 35,
+      "duration": 2,
+      "activities": [
+        "reservoir",
+        "dam",
+        "mountain_lake"
+      ],
+      "image": "https://i.postimg.cc/YCzBqVpC/Kotmale.jpg"
+    },
+    {
+      "name": "Agarapathana",
+      "cost": 25,
+      "duration": 1,
+      "activities": [
+        "vegetable_farms",
+        "cool_climate",
+        "agriculture"
+      ],
+      "image": "https://i.postimg.cc/ryDTCQ9f/Agarapathana.webp"
+    },
+    {
+      "name": "Bogawantalawa",
+      "cost": 40,
+      "duration": 2,
+      "activities": [
+        "tea_valley",
+        "estates",
+        "mountain_scenery"
+      ],
+      "image": "https://i.postimg.cc/7hFmgxNr/Bogawantalawa.webp"
+    },
+    {
+      "name": "Haggala",
+      "cost": 30,
+      "duration": 1,
+      "activities": [
+        "botanical_garden",
+        "mountain_slopes",
+        "research"
+      ],
+      "image": "https://i.postimg.cc/sDSRbxqS/Haggala.jpg"
+    },
+    {
+      "name": "Seetha Eliya",
+      "cost": 25,
+      "duration": 1,
+      "activities": [
+        "ashoka_vatika",
+        "ramayana_trail",
+        "temple"
+      ],
+      "image": "https://i.postimg.cc/dQgYWrHw/Seetha-Eliya.avif"
+    },
+    {
+      "name": "Pedro Tea Estate",
+      "cost": 35,
+      "duration": 2,
+      "activities": [
+        "highest_tea_estate",
+        "mountain_views",
+        "tea_processing"
+      ],
+      "image": "https://i.postimg.cc/3N4t4ymZ/Pedro-Tea-Estate.webp"
+    }
+  ],
+  "historical": [
+    {
+      "name": "Dambulla Cave Temple",
+      "cost": 25,
+      "duration": 1,
+      "activities": [
+        "caves",
+        "buddhist_art",
+        "history"
+      ],
+      "image": "https://i.postimg.cc/MHfXCxJT/Dambulla-Cave-Temple.webp"
+    },
+    {
+      "name": "Anuradhapura",
+      "cost": 35,
+      "duration": 2,
+      "activities": [
+        "ancient_city",
+        "stupas",
+        "archaeology"
+      ],
+      "image": "https://i.postimg.cc/v84zYVQ1/Anuradhapura.jpg"
+    },
+    {
+      "name": "Polonnaruwa",
+      "cost": 45,
+      "duration": 2,
+      "activities": [
+        "medieval_capital",
+        "gal_vihara",
+        "archaeology"
+      ],
+      "image": "https://i.postimg.cc/gJJxK8M3/Polonnaruwa.webp"
+    },
+    {
+      "name": "Medirigiriya",
+      "cost": 20,
+      "duration": 1,
+      "activities": [
+        "vatadage",
+        "ancient_ruins",
+        "archaeology"
+      ],
+      "image": "https://i.postimg.cc/SKVX8DGy/Medirigiriya.webp"
+    },
+    {
+      "name": "Dambadeniya",
+      "cost": 15,
+      "duration": 1,
+      "activities": [
+        "ancient_kingdom",
+        "tooth_relic",
+        "history"
+      ],
+      "image": "https://i.postimg.cc/6pr46924/Dambadeniya.webp"
+    },
+    {
+      "name": "Kurunegala",
+      "cost": 20,
+      "duration": 1,
+      "activities": [
+        "elephant_rock",
+        "ancient_kingdom",
+        "history"
+      ],
+      "image": "https://i.postimg.cc/sXNvHx8q/Kurunegala.jpg"
+    },
+    {
+      "name": "Panduwasnuwara",
+      "cost": 15,
+      "duration": 1,
+      "activities": [
+        "ancient_kingdom",
+        "ruins",
+        "archaeology"
+      ],
+      "image": "https://i.postimg.cc/7LqGfp0s/Panduwasnuwara.webp"
+    },
+    {
+      "name": "Avukana",
+      "cost": 20,
+      "duration": 1,
+      "activities": [
+        "ancient_statue",
+        "reservoir",
+        "sculpture"
+      ],
+      "image": "https://i.postimg.cc/FsJJqbhZ/Avukana.webp"
+    },
+    {
+      "name": "Sasseruwa",
+      "cost": 15,
+      "duration": 1,
+      "activities": [
+        "ancient_statue",
+        "unfinished_buddha",
+        "archaeology"
+      ],
+      "image": "https://i.postimg.cc/y84SzJdz/Sasseruwa.jpg"
+    },
+    {
+      "name": "Aukana",
+      "cost": 25,
+      "duration": 1,
+      "activities": [
+        "standing_buddha",
+        "ancient_art",
+        "sculpture"
+      ],
+      "image": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800&h=600&fit=crop&q=80"
+    },
+    {
+      "name": "Girithale",
+      "cost": 20,
+      "duration": 1,
+      "activities": [
+        "ancient_tanks",
+        "senanayake_samudraya",
+        "history"
+      ],
+      "image": "https://i.postimg.cc/5yXFfLLf/Girithale.webp"
+    },
+    {
+      "name": "Nalanda",
+      "cost": 15,
+      "duration": 1,
+      "activities": [
+        "ancient_university",
+        "ruins",
+        "gedige"
+      ],
+      "image": "https://i.postimg.cc/NFZ2FFkm/Nalanda.webp"
+    },
+    {
+      "name": "Dimbulagala",
+      "cost": 25,
+      "duration": 1,
+      "activities": [
+        "forest_hermitage",
+        "meditation",
+        "ancient_caves"
+      ],
+      "image": "https://i.postimg.cc/L4W1NQF5/Dimbulagala.jpg"
+    },
+    {
+      "name": "Arankele",
+      "cost": 20,
+      "duration": 1,
+      "activities": [
+        "forest_monastery",
+        "ancient_ruins",
+        "meditation"
+      ],
+      "image": "https://i.postimg.cc/pTGFNq90/Arankele.webp"
+    },
+    {
+      "name": "Vessagiriya",
+      "cost": 15,
+      "duration": 1,
+      "activities": [
+        "cave_dwellings",
+        "ancient_monastery",
+        "archaeology"
+      ],
+      "image": "https://i.postimg.cc/NLhLYVQx/Vessagiriya.jpg"
+    },
+    {
+      "name": "Ritigala",
+      "cost": 30,
+      "duration": 1,
+      "activities": [
+        "monastery_complex",
+        "ancient_technology",
+        "forest_hermitage"
+      ],
+      "image": "https://i.postimg.cc/Jn4kd9hD/Ritigala.webp"
+    },
+    {
+      "name": "Sigiriya Museum",
+      "cost": 20,
+      "duration": 1,
+      "activities": [
+        "archaeological_artifacts",
+        "frescoes",
+        "history"
+      ],
+      "image": "https://i.postimg.cc/FKvc0f5x/Sigiriya-Museum.webp"
+    },
+    {
+      "name": "Citadel of Yapahuwa",
+      "cost": 25,
+      "duration": 1,
+      "activities": [
+        "ancient_capital",
+        "stone_stairway",
+        "tooth_relic_history"
+      ],
+      "image": "https://i.postimg.cc/8zMMFR35/Citadel-of-Yapahuwa.webp"
+    },
+    {
+      "name": "Mingun Temple",
+      "cost": 15,
+      "duration": 1,
+      "activities": [
+        "unfinished_stupa",
+        "ancient_construction",
+        "archaeology"
+      ],
+      "image": "https://i.postimg.cc/02L72WVF/Mingun-Temple.webp"
+    },
+    {
+      "name": "Thuparama Museum",
+      "cost": 10,
+      "duration": 1,
+      "activities": [
+        "archaeological_museum",
+        "ancient_artifacts",
+        "education"
+      ],
+      "image": "https://i.postimg.cc/CK487Fwp/Thuparama-Museum.jpg"
+    },
+    {
+      "name": "Isurumuniya Museum",
+      "cost": 15,
+      "duration": 1,
+      "activities": [
+        "rock_carvings",
+        "sculptures",
+        "art_history"
+      ],
+      "image": "https://i.postimg.cc/X7ZwWSk9/Isurumuniya-Museum.jpg"
+    },
+    {
+      "name": "Folk Museum Anuradhapura",
+      "cost": 20,
+      "duration": 1,
+      "activities": [
+        "traditional_life",
+        "ancient_culture",
+        "ethnography"
+      ],
+      "image": "https://i.postimg.cc/ryZS7Fx8/folk-museum.webp"
+    },
+    {
+      "name": "Polonnaruwa Museum",
+      "cost": 25,
+      "duration": 1,
+      "activities": [
+        "medieval_artifacts",
+        "royal_items",
+        "archaeology"
+      ],
+      "image": "https://i.postimg.cc/7hR0zmwC/Polonnaruwa-Museum.webp"
+    },
+    {
+      "name": "Parakrama Samudra",
+      "cost": 15,
+      "duration": 1,
+      "activities": [
+        "ancient_reservoir",
+        "engineering_marvel",
+        "irrigation"
+      ],
+      "image": "https://i.postimg.cc/85thpTYm/Parakrama-Samudra.webp"
+    },
+    {
+      "name": "Kiri Vehera",
+      "cost": 20,
+      "duration": 1,
+      "activities": [
+        "ancient_stupa",
+        "queen_subhadra",
+        "buddhist_heritage"
+      ],
+      "image": "https://i.postimg.cc/D001mtkk/Kiri-Vehera.jpg"
+    },
+    {
+      "name": "Lankathilaka Image House",
+      "cost": 15,
+      "duration": 1,
+      "activities": [
+        "ancient_structure",
+        "buddha_statue",
+        "architecture"
+      ],
+      "image": "https://i.postimg.cc/JhC3K6JZ/Lankathilaka-Image-House.jpg"
+    },
+    {
+      "name": "Watadage Polonnaruwa",
+      "cost": 20,
+      "duration": 1,
+      "activities": [
+        "circular_relic_house",
+        "moonstone",
+        "architecture"
+      ],
+      "image": "https://i.postimg.cc/xC0vVX6d/Watadage-Polonnaruwa.jpg"
+    },
+    {
+      "name": "Royal Palace Polonnaruwa",
+      "cost": 25,
+      "duration": 1,
+      "activities": [
+        "palace_ruins",
+        "royal_chambers",
+        "archaeology"
+      ],
+      "image": "https://i.postimg.cc/VLTW0Lk7/Royal-Palace-Polonnaruwa.webp"
+    },
+    {
+      "name": "Shiva Devale No. 1",
+      "cost": 15,
+      "duration": 1,
+      "activities": [
+        "hindu_temple",
+        "stone_architecture",
+        "religious_history"
+      ],
+      "image": "https://i.postimg.cc/k5NQHQFZ/Shiva-Devale-No-1.jpg"
+    },
+    {
+      "name": "Nelum Pokuna",
+      "cost": 10,
+      "duration": 1,
+      "activities": [
+        "lotus_pond",
+        "ancient_bath",
+        "engineering"
+      ],
+      "image": "https://i.postimg.cc/m2hSrFBz/Nelum-Pokuna.jpg"
+    }
+  ],
+  "wildlife": [
+    {
+      "name": "Udawalawe National Park",
+      "cost": 60,
+      "duration": 1,
+      "activities": [
+        "elephants",
+        "safari",
+        "wildlife"
+      ],
+      "image": "https://i.postimg.cc/FF02r8Fk/Udawalawe-National-Park.jpg"
+    },
+    {
+      "name": "Wilpattu National Park",
+      "cost": 65,
+      "duration": 2,
+      "activities": [
+        "leopards",
+        "safari",
+        "lakes"
+      ],
+      "image": "https://i.postimg.cc/SRb3L7dK/wilpathuwa.webp"
+    },
+    {
+      "name": "Lunugamvehera National Park",
+      "cost": 40,
+      "duration": 1,
+      "activities": [
+        "elephants",
+        "reservoir",
+        "birds"
+      ],
+      "image": "https://i.postimg.cc/wvmnsbhP/lumugamawehera.webp"
+    },
+    {
+      "name": "Lahugala National Park",
+      "cost": 35,
+      "duration": 1,
+      "activities": [
+        "elephants",
+        "lagoon",
+        "birds"
+      ],
+      "image": "https://i.postimg.cc/XqKhsG1k/Lahugala-National-Park.jpg"
+    },
+    {
+      "name": "Flood Plains National Park",
+      "cost": 45,
+      "duration": 1,
+      "activities": [
+        "wetlands",
+        "birds",
+        "wildlife"
+      ],
+      "image": "https://i.postimg.cc/W4KQzPJg/Flood-Plains-National-Park.webp"
+    },
+    {
+      "name": "Somawathiya National Park",
+      "cost": 50,
+      "duration": 2,
+      "activities": [
+        "chaitya",
+        "wildlife",
+        "mahaweli"
+      ],
+      "image": "https://i.postimg.cc/yNWM7NW7/Somawathiya-National-Park.webp"
+    },
+    {
+      "name": "Chundikkulam National Park",
+      "cost": 55,
+      "duration": 2,
+      "activities": [
+        "birds",
+        "lagoon",
+        "flamingos"
+      ],
+      "image": "https://i.postimg.cc/mgdxx9Ld/Chundikkulam-National-Park.webp"
+    },
+    {
+      "name": "Angammedilla National Park",
+      "cost": 40,
+      "duration": 1,
+      "activities": [
+        "reservoir",
+        "birds",
+        "wildlife"
+      ],
+      "image": "https://i.postimg.cc/4x4CFPg7/Angammedilla-National-Park.jpg"
+    },
+    {
+      "name": "Horowpothana National Park",
+      "cost": 35,
+      "duration": 1,
+      "activities": [
+        "dry_zone",
+        "wildlife",
+        "birds"
+      ],
+      "image": "https://i.postimg.cc/Hsg1bHvt/Horowpothana-National-Park.webp"
+    },
+    {
+      "name": "Hikkaduwa Marine Park",
+      "cost": 30,
+      "duration": 1,
+      "activities": [
+        "coral_reef",
+        "marine_life",
+        "snorkeling"
+      ],
+      "image": "https://i.postimg.cc/KvDSNVdh/Hikkaduwa-Marine-Park.jpg"
+    },
+    {
+      "name": "Pigeon Island National Park",
+      "cost": 45,
+      "duration": 1,
+      "activities": [
+        "coral_reef",
+        "snorkeling",
+        "marine_park"
+      ],
+      "image": "https://i.postimg.cc/05mq6rnQ/Pigeon-Island-National-Park.jpg"
+    },
+    {
+      "name": "Bar Reef Marine Sanctuary",
+      "cost": 50,
+      "duration": 2,
+      "activities": [
+        "coral_reef",
+        "diving",
+        "marine_life"
+      ],
+      "image": "https://i.postimg.cc/qq8fWZqn/bar-reef.webp"
+    },
+    {
+      "name": "Muthurajawela Wetlands",
+      "cost": 25,
+      "duration": 1,
+      "activities": [
+        "wetlands",
+        "boat_ride",
+        "birds"
+      ],
+      "image": "https://i.postimg.cc/Gt0w71Ld/Muthurajawela-Wetlands.jpg"
+    },
+    {
+      "name": "Bellanwila-Attidiya Sanctuary",
+      "cost": 15,
+      "duration": 1,
+      "activities": [
+        "wetlands",
+        "birds",
+        "urban_sanctuary"
+      ],
+      "image": "https://i.postimg.cc/43STc9jK/Bellanwila-Attidiya-Sanctuary.webp"
+    },
+    {
+      "name": "Thalangama Wetlands",
+      "cost": 20,
+      "duration": 1,
+      "activities": [
+        "wetlands",
+        "birds",
+        "urban_nature"
+      ],
+      "image": "https://i.postimg.cc/j5nY4jrM/Thalangama-Wetlands.jpg"
+    },
+    {
+      "name": "Beddagana Wetlands",
+      "cost": 10,
+      "duration": 1,
+      "activities": [
+        "wetlands",
+        "birds",
+        "walking_trails"
+      ],
+      "image": "https://i.postimg.cc/YS9Hj3DK/Beddagana-Wetlands.jpg"
+    },
+    {
+      "name": "Kalametiya Bird Sanctuary",
+      "cost": 25,
+      "duration": 1,
+      "activities": [
+        "birds",
+        "lagoon",
+        "mangroves"
+      ],
+      "image": "https://i.postimg.cc/3x37Q7gw/Kalametiya-Bird-Sanctuary.webp"
+    },
+    {
+      "name": "Kumana Bird Sanctuary",
+      "cost": 40,
+      "duration": 1,
+      "activities": [
+        "migratory_birds",
+        "lagoons",
+        "mangroves"
+      ],
+      "image": "https://i.postimg.cc/m2YRnh1q/kumana.webp"
+    },
+    {
+      "name": "Sinharaja Buffer Zone",
+      "cost": 30,
+      "duration": 1,
+      "activities": [
+        "endemic_species",
+        "research",
+        "biodiversity"
+      ],
+      "image": "https://i.postimg.cc/brb8pwCZ/Sinharaja-Buffer-Zone.webp"
+    },
+    {
+      "name": "Peak Wilderness Sanctuary",
+      "cost": 35,
+      "duration": 2,
+      "activities": [
+        "cloud_forest",
+        "endemic_species",
+        "trekking"
+      ],
+      "image": "https://i.postimg.cc/857NXHLB/Peak-Wilderness-Sanctuary.webp"
+    },
+    {
+      "name": "Dehiwala Zoo",
+      "cost": 20,
+      "duration": 1,
+      "activities": [
+        "zoo_animals",
+        "education",
+        "conservation"
+      ],
+      "image": "https://i.postimg.cc/Vk4wYTRW/Dehiwala-Zoo.jpg"
+    },
+    {
+      "name": "Pinnawala Elephant Orphanage",
+      "cost": 35,
+      "duration": 1,
+      "activities": [
+        "elephant_feeding",
+        "river_bath",
+        "conservation"
+      ],
+      "image": "https://i.postimg.cc/3wJKm7Rq/Pinnawala-Elephant-Orphanage.webp"
+    },
+    {
+      "name": "Millennium Elephant Foundation",
+      "cost": 30,
+      "duration": 1,
+      "activities": [
+        "elephant_care",
+        "conservation",
+        "education"
+      ],
+      "image": "https://i.postimg.cc/GmjL49cY/Millennium-Elephant-Foundation.webp"
+    },
+    {
+      "name": "Elephant Transit Home",
+      "cost": 25,
+      "duration": 1,
+      "activities": [
+        "orphaned_elephants",
+        "rehabilitation",
+        "conservation"
+      ],
+      "image": "https://i.postimg.cc/T3x22nXf/elephat-transit.webp"
+    },
+    {
+      "name": "Turtle Hatchery Kosgoda",
+      "cost": 20,
+      "duration": 1,
+      "activities": [
+        "turtle_conservation",
+        "hatchery",
+        "marine_protection"
+      ],
+      "image": "https://i.postimg.cc/3rPJ6PSy/Turtle-Hatchery-Kosgoda.jpg"
+    },
+    {
+      "name": "Turtle Hatchery Bentota",
+      "cost": 25,
+      "duration": 1,
+      "activities": [
+        "sea_turtle_conservation",
+        "education",
+        "marine_life"
+      ],
+      "image": "https://i.postimg.cc/4NVNTBqW/Turtle-Hatchery-Bentota.jpg"
+    },
+    {
+      "name": "Sea Turtle Research Project",
+      "cost": 30,
+      "duration": 1,
+      "activities": [
+        "research",
+        "conservation",
+        "nesting_beaches"
+      ],
+      "image": "https://images.unsplash.com/photo-1564349683136-77e08dba1ef7?w=800&h=600&fit=crop&q=80"
+    },
+    {
+      "name": "Whale Watching Mirissa",
+      "cost": 50,
+      "duration": 1,
+      "activities": [
+        "blue_whales",
+        "dolphins",
+        "marine_mammals"
+      ],
+      "image": "https://i.postimg.cc/tR14BX5Q/Whale-Watching-Mirissa.webp"
+    },
+    {
+      "name": "Dolphin Watching Kalpitiya",
+      "cost": 45,
+      "duration": 1,
+      "activities": [
+        "dolphins",
+        "boat_safari",
+        "marine_life"
+      ],
+      "image": "https://i.postimg.cc/4nCM5v1d/Dolphin-Watching-Kalpitiya.webp"
+    },
+    {
+      "name": "Mannar Bird Sanctuary",
+      "cost": 40,
+      "duration": 2,
+      "activities": [
+        "migratory_birds",
+        "flamingos",
+        "wetlands"
+      ],
+      "image": "https://i.postimg.cc/brSWkVkW/Mannar-Bird-Sanctuary.webp"
+    },
+    {
+      "name": "Adam's Bridge Marine Park",
+      "cost": 35,
+      "duration": 1,
+      "activities": [
+        "coral_reef",
+        "marine_biodiversity",
+        "snorkeling"
+      ],
+      "image": "https://i.postimg.cc/jjvpb7Rg/Adam-s-Bridge-Marine-Park.webp"
+    },
+    {
+      "name": "Vankalai Bird Sanctuary",
+      "cost": 30,
+      "duration": 1,
+      "activities": [
+        "sanctuary",
+        "migratory_birds",
+        "wetlands"
+      ],
+      "image": "https://i.postimg.cc/d11ztV1q/vanakali-bid.webp"
+    },
+    {
+      "name": "Giant's Tank Sanctuary",
+      "cost": 25,
+      "duration": 1,
+      "activities": [
+        "ancient_tank",
+        "birds",
+        "wildlife"
+      ],
+      "image": "https://i.postimg.cc/25CsMwNL/Giant-s-Tank-Sanctuary.webp"
+    },
+    {
+      "name": "Senanayake Samudraya",
+      "cost": 30,
+      "duration": 1,
+      "activities": [
+        "largest_reservoir",
+        "bird_watching",
+        "boat_safari"
+      ],
+      "image": "https://i.postimg.cc/3xjMtqVH/Senanayake-Samudraya.webp"
+    },
+    {
+      "name": "Minneriya-Giritale Sanctuary",
+      "cost": 35,
+      "duration": 1,
+      "activities": [
+        "elephant_corridor",
+        "ancient_tanks",
+        "wildlife"
+      ],
+      "image": "https://i.postimg.cc/131hcSWH/minneriya.webp"
+    }
+  ]
+}

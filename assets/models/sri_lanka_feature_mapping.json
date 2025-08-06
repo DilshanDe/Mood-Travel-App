@@ -1,0 +1,155 @@
+{
+  "model_version": "2.0.0",
+  "input_features": [
+    "user_lat",
+    "user_lng",
+    "user_budget",
+    "user_travel_type_encoded",
+    "user_duration",
+    "user_province_encoded",
+    "place_lat",
+    "place_lng",
+    "place_budget",
+    "place_type_encoded",
+    "place_duration",
+    "place_province_encoded",
+    "place_rating",
+    "distance",
+    "budget_match",
+    "type_match",
+    "duration_match",
+    "province_match",
+    "season_match",
+    "season_encoded",
+    "budget_ratio",
+    "same_province"
+  ],
+  "categorical_mappings": {
+    "user_travel_types": {
+      "adventure": 0,
+      "beach": 1,
+      "cultural": 2,
+      "historical": 3,
+      "nature": 4,
+      "religious": 5,
+      "scenic": 6,
+      "wildlife": 7
+    },
+    "place_types": {
+      "adventure": 0,
+      "beach": 1,
+      "cultural": 2,
+      "historical": 3,
+      "modern": 4,
+      "nature": 5,
+      "recreational": 6,
+      "religious": 7,
+      "scenic": 8,
+      "wildlife": 9
+    },
+    "user_provinces": {
+      "Central": 0,
+      "Eastern": 1,
+      "North Central": 2,
+      "North Western": 3,
+      "Northern": 4,
+      "Sabaragamuwa": 5,
+      "Southern": 6,
+      "Uva": 7,
+      "Western": 8
+    },
+    "place_provinces": {
+      "Central": 0,
+      "Eastern": 1,
+      "North Central": 2,
+      "North Western": 3,
+      "Northern": 4,
+      "Sabaragamuwa": 5,
+      "Southern": 6,
+      "Uva": 7,
+      "Western": 8
+    },
+    "seasons": {
+      "all": 0,
+      "dry": 1,
+      "wet": 2
+    }
+  },
+  "numerical_ranges": {
+    "latitude": {
+      "min": 5.5,
+      "max": 10.0
+    },
+    "longitude": {
+      "min": 79.0,
+      "max": 82.0
+    },
+    "budget": {
+      "min": 500,
+      "max": 20000
+    },
+    "duration": {
+      "min": 1,
+      "max": 10
+    },
+    "rating": {
+      "min": 3.5,
+      "max": 5.0
+    }
+  },
+  "feature_scaling": {
+    "means": [
+      7.424577777777775,
+      80.45895555555549,
+      6142.857142857143,
+      3.5,
+      5.5,
+      4.0,
+      7.286574999999999,
+      80.54306521739132,
+      2084.782608695652,
+      4.663043478260869,
+      3.891304347826087,
+      4.130434782608695,
+      4.290217391304347,
+      151.19910320682462,
+      0.9158893168598139,
+      0.30217391304347796,
+      0.5883695652173914,
+      0.5555555555555556,
+      0.9217391304347825,
+      0.45652173913043476,
+      5.163547828551712,
+      0.1111111111111111
+    ],
+    "scales": [
+      0.9919781424314392,
+      0.5684849106003165,
+      4611.432111876851,
+      2.29128784747792,
+      2.8722813232690143,
+      2.581988897471611,
+      0.9672097703799722,
+      0.5615441425280493,
+      1448.8327222591458,
+      2.912779838816176,
+      1.6904882349752666,
+      2.774955508081823,
+      0.22605298657841447,
+      94.7525120651207,
+      0.19716107066718544,
+      0.2629176846176157,
+      0.34069231679904066,
+      0.15713484026367727,
+      0.09760845356801581,
+      0.61525963904717,
+      7.254325931328403,
+      0.31426968052735454
+    ]
+  },
+  "prediction_config": {
+    "threshold": 0.5,
+    "min_confidence": 0.3,
+    "max_suggestions": 10
+  }
+}

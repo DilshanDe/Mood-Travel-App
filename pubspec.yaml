@@ -1,0 +1,90 @@
+name: traveltest_app
+description: "A new Flutter project."
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.4.3 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^3.10.1
+  cloud_firestore: ^5.6.2
+  firebase_auth: ^5.4.1
+  google_sign_in: ^6.2.2
+  the_apple_sign_in: ^1.1.1
+  firebase_storage: ^12.4.1
+  shared_preferences: ^2.3.3
+  image_picker: ^1.1.2
+  random_string: ^2.3.1
+  carousel_slider: ^5.0.0
+  url_launcher: ^6.1.14
+  firebase_database: ^11.3.3
+  google_maps_flutter: ^2.10.1
+  path_provider: 2.0.15
+  cupertino_icons: ^1.0.6
+  http: ^1.1.0
+  connectivity_plus: ^3.0.0
+  permission_handler: ^10.0.0
+  geolocator: ^10.1.0
+  cached_network_image: ^3.0.0
+  google_fonts: ^6.1.0
+  intl: ^0.18.1
+  cloud_functions: ^5.3.3
+
+  tflite_flutter: 0.9.1
+
+  geocoding: 2.1.0
+
+  google_ml_kit: ^0.18.0
+  crypto: ^3.0.3
+  image: ^3.3.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: ^0.11.0
+  flutter_lints: ^3.0.0
+
+# Add this configuration section
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "images/logo12.png"
+  min_sdk_android: 21
+  web:
+    generate: true
+    image_path: "images/logo12.png"
+    background_color: "#hexcode"
+    theme_color: "#hexcode"
+  windows:
+    generate: true
+    image_path: "images/logo12.png"
+    icon_size: 48
+
+flutter:
+  uses-material-design: true
+  assets:
+    - images/sigiriya.jpg
+    - images/google.png
+    - images/apple1.png
+    - images/logo.png
+    - images/pin.jpeg
+    - images/boy.jpeg
+    - images/colombo.jpg
+    - images/kandy.jpg
+    - images/jaffna.jpg
+    - images/galle.jpg
+    - images/trincomalee.jpg
+    - images/matale.jpg
+    - images/logo12.png
+
+    - assets/models/travel_recommendation_model.tflite
+    - assets/models/preprocessing_params.json
+    - assets/models/places_data.json
+    #second model
+    - assets/models/sri_lanka_travel_model.tflite
+    - assets/models/sri_lanka_model_metadata.json
+    - assets/models/sri_lanka_feature_mapping.json
